@@ -58,7 +58,7 @@ pip install -r requirements.txt
 jupyter notebook PredicitingCoasterWaitTimes.ipynb
 ```
 
-## 👥 Team
+## Team
 **Benjamin Miller** - Lead Developer, Data Architecture, ML Engineering  
 **Johnathan Duong** - Web Scraping, Data Processing, Analysis  
 **Khang Nguyen** - Feature Engineering, Statistical Modeling  
