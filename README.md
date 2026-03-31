@@ -1,7 +1,7 @@
 # Predictive Modeling of Theme Park Wait Times
 
 ## Project Highlights
-** Data Science Project | 730+ Roller Coasters | 80+ Theme Parks | ML Pipeline**
+**730+ Roller Coasters | 80+ Theme Parks | ML Pipeline**
 
 **Key Finding:** Ride characteristics (speed, height, inversions) cannot predict wait times - IP and theming are the real demand drivers.
 
