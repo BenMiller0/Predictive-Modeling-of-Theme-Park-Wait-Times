@@ -59,8 +59,4 @@ jupyter notebook PredicitingCoasterWaitTimes.ipynb
 ```
 
 ## Team
-**Benjamin Miller**
-**Johnathan Duong**
-**Khang Nguyen**
-**Naomika Nadkarni**
-**Varun Prajapati**
+**Benjamin Miller, Johnathan Duong, Khang Nguyen, Naomika Nadkarni, Varun Prajapati**
