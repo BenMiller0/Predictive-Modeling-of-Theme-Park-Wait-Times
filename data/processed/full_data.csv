@@ -1,0 +1,671 @@
+Chain,Park,Name,Height,Speed,Length,Inversions,URL,Average_Wait,Thrill_Score,Relative_Thrill_Rank,Audience_Category
+cedar fair,cedar point,corkscrew,85.0,48.0,2050.0,3,https://rcdb.com/13.htm,14.0,85.0,11.0,Thrill
+cedar fair,cedar point,woodstock express,42.7,28.5,1099.1,0,https://rcdb.com/553.htm,0.0,22.0,17.0,Kids
+cedar fair,cedar point,maverick,105.0,70.0,4450.0,2,https://rcdb.com/3570.htm,55.0,95.0,8.0,Thrill
+cedar fair,cedar point,steel vengeance,205.0,74.0,5740.0,4,https://rcdb.com/15411.htm,59.0,154.0,2.0,Thrill
+cedar fair,cedar point,raptor,137.0,57.0,3790.0,6,https://rcdb.com/1.htm,31.0,154.0,2.0,Thrill
+cedar fair,cedar point,cedar creek mine ride,48.0,42.0,2540.0,0,https://rcdb.com/18.htm,15.0,35.0,15.0,Family
+cedar fair,cedar point,iron dragon,76.0,40.0,2800.0,0,https://rcdb.com/17.htm,19.0,42.0,13.0,Family
+cedar fair,cedar point,wilderness run,19.0,6.0,443.0,0,https://rcdb.com/15.htm,0.0,8.0,18.0,Kids
+cedar fair,cedar point,valravn,223.0,75.0,3415.0,3,https://rcdb.com/13383.htm,43.0,127.0,5.0,Thrill
+cedar fair,cedar point,millennium force,310.0,93.0,6595.0,0,https://rcdb.com/594.htm,43.0,125.0,7.0,Thrill
+cedar fair,cedar point,blue streak,78.0,40.0,2558.0,0,https://rcdb.com/12.htm,17.0,41.0,14.0,Family
+cedar fair,cedar point,gemini,125.3,60.0,3935.0,0,https://rcdb.com/14.htm,18.0,63.0,12.0,Thrill
+cedar fair,cedar point,gatekeeper,170.0,67.0,4164.0,6,https://rcdb.com/10891.htm,23.0,165.0,1.0,Thrill
+cedar fair,cedar point,top thrill 2,420.0,120.0,3422.0,0,https://rcdb.com/1896.htm,54.0,131.0,4.0,Thrill
+cedar fair,cedar point,wild mouse,52.0,35.0,1312.0,0,https://rcdb.com/20342.htm,29.0,26.0,16.0,Family
+cedar fair,cedar point,siren’s curse,160.0,58.4,2965.9,2,https://rcdb.com/22124.htm,77.0,93.0,9.0,Thrill
+cedar fair,cedar point,magnum xl-200,205.0,72.0,5106.0,0,https://rcdb.com/11.htm,16.0,89.0,10.0,Thrill
+cedar fair,cedar point,rougarou,145.0,60.0,3900.0,4,https://rcdb.com/7.htm,17.0,127.0,5.0,Thrill
+cedar fair,kings island,diamondback,230.0,80.0,5282.0,0,https://rcdb.com/4253.htm,30.0,97.0,4.0,Thrill
+cedar fair,kings island,queen city stunt coaster,45.2,40.0,1960.0,0,https://rcdb.com/2860.htm,21.0,30.0,11.0,Family
+cedar fair,kings island,banshee,167.0,68.0,4124.0,7,https://rcdb.com/6640.htm,23.0,179.0,1.0,Thrill
+cedar fair,kings island,adventure express,63.0,35.0,2963.0,0,https://rcdb.com/70.htm,13.0,39.0,10.0,Family
+cedar fair,kings island,flight of fear,74.2,54.0,2705.0,4,https://rcdb.com/66.htm,48.0,104.0,3.0,Thrill
+cedar fair,kings island,orion,287.0,91.0,5321.0,0,https://rcdb.com/11437.htm,30.0,111.0,2.0,Thrill
+cedar fair,kings island,bat,78.0,51.0,2352.0,0,https://rcdb.com/73.htm,0.0,41.0,9.0,Family
+cedar fair,kings island,mystic timbers,109.2,53.0,3265.0,0,https://rcdb.com/14116.htm,28.0,54.0,7.0,Thrill
+cedar fair,kings island,woodstock express,39.0,35.0,1350.0,0,https://rcdb.com/72.htm,14.0,24.0,13.0,Kids
+cedar fair,kings island,woodstock’s air rail,48.6,26.0,1122.0,0,https://rcdb.com/1037.htm,17.0,22.0,14.0,Kids
+cedar fair,kings island,beast,110.0,64.8,7361.0,0,https://rcdb.com/67.htm,33.0,84.0,6.0,Thrill
+cedar fair,kings island,snoopy's soap box racers,75.5,37.3,672.6,0,https://rcdb.com/21087.htm,19.0,27.0,12.0,Family
+cedar fair,kings island,racer,88.0,53.0,3415.0,0,https://rcdb.com/69.htm,8.0,51.0,8.0,Thrill
+cedar fair,kings island,great pumpkin coaster,8.0,8.0,199.3,0,https://rcdb.com/74.htm,0.0,5.0,15.0,Kids
+cedar fair,kings island,invertigo,131.3,50.0,1013.8,3,https://rcdb.com/530.htm,20.0,88.0,5.0,Thrill
+cedar fair,carowinds,woodstock express,,,1356.0,0,https://rcdb.com/82.htm,12.0,,,Thrill
+cedar fair,carowinds,wilderness run,16.0,,416.0,0,https://rcdb.com/498.htm,7.0,,,Thrill
+cedar fair,carowinds,carolina cyclone,95.0,41.0,2100.0,4,https://rcdb.com/81.htm,10.0,101.0,4.0,Thrill
+cedar fair,carowinds,carolina goldrusher,43.0,30.0,2397.0,0,https://rcdb.com/83.htm,18.0,31.0,9.0,Family
+cedar fair,carowinds,thunder striker,232.0,75.0,5316.0,0,https://rcdb.com/8588.htm,15.0,97.0,5.0,Thrill
+cedar fair,carowinds,vortex,90.0,50.0,2040.0,2,https://rcdb.com/86.htm,14.0,72.0,7.0,Thrill
+cedar fair,carowinds,fury 325,325.0,95.0,6602.0,0,https://rcdb.com/12273.htm,23.0,128.0,2.0,Thrill
+cedar fair,carowinds,hurler,83.0,50.0,3157.0,0,https://rcdb.com/85.htm,12.0,48.0,8.0,Family
+cedar fair,carowinds,flying cobras,116.5,47.0,935.0,3,https://rcdb.com/4269.htm,18.0,84.0,6.0,Thrill
+cedar fair,carowinds,snoopy’s racing railway,,31.1,,0,https://rcdb.com/22011.htm,21.0,,,Thrill
+cedar fair,carowinds,ricochet,45.9,28.0,1213.9,0,https://rcdb.com/1478.htm,21.0,23.0,10.0,Kids
+cedar fair,carowinds,kiddy hawk,48.6,26.0,1122.0,0,https://rcdb.com/1897.htm,17.0,22.0,11.0,Kids
+cedar fair,carowinds,copperhead strike,82.0,50.0,3255.0,5,https://rcdb.com/16349.htm,22.0,123.0,3.0,Thrill
+cedar fair,carowinds,afterburn,113.0,62.0,2956.0,6,https://rcdb.com/527.htm,18.0,145.0,1.0,Thrill
+cedar fair,canada's wonderland,bat,116.5,47.0,935.0,3,https://rcdb.com/64.htm,24.0,84.0,7.0,Thrill
+cedar fair,canada's wonderland,silver streak,48.6,26.0,1122.0,0,https://rcdb.com/734.htm,19.0,22.0,14.0,Kids
+cedar fair,canada's wonderland,leviathan,306.0,92.0,5486.0,0,https://rcdb.com/10108.htm,38.0,116.0,4.0,Thrill
+cedar fair,canada's wonderland,thunder run,33.0,40.0,1083.0,0,https://rcdb.com/63.htm,23.0,22.0,14.0,Kids
+cedar fair,canada's wonderland,yukon striker,223.0,80.8,3625.0,4,https://rcdb.com/16021.htm,35.0,145.0,2.0,Thrill
+cedar fair,canada's wonderland,vortex,91.0,55.0,2361.0,0,https://rcdb.com/65.htm,29.0,45.0,10.0,Family
+cedar fair,canada's wonderland,backlot stunt coaster,45.2,40.0,1960.0,0,https://rcdb.com/2861.htm,30.0,30.0,11.0,Family
+cedar fair,canada's wonderland,ghoster coaster,41.0,35.0,1356.0,0,https://rcdb.com/61.htm,24.0,24.0,13.0,Kids
+cedar fair,canada's wonderland,behemoth,230.0,77.0,5318.0,0,https://rcdb.com/4005.htm,29.0,97.0,6.0,Thrill
+cedar fair,canada's wonderland,snoopy's racing railway,,31.1,,0,https://rcdb.com/20343.htm,40.0,,,Thrill
+cedar fair,canada's wonderland,fly,51.8,35.0,1312.3,0,https://rcdb.com/540.htm,27.0,26.0,12.0,Family
+cedar fair,canada's wonderland,alpenfury,164.0,71.5,3280.8,7,https://rcdb.com/22016.htm,104.0,174.0,1.0,Thrill
+cedar fair,canada's wonderland,wonder mountain's guardian,60.0,,1000.0,0,https://rcdb.com/12140.htm,37.0,,,Thrill
+cedar fair,canada's wonderland,wilde beast,82.0,56.0,3150.0,0,https://rcdb.com/60.htm,13.0,49.0,9.0,Family
+cedar fair,canada's wonderland,dragon fyre,78.0,50.0,2160.0,4,https://rcdb.com/58.htm,8.0,100.0,5.0,Thrill
+cedar fair,canada's wonderland,mighty canadian minebuster,90.0,55.9,3828.0,0,https://rcdb.com/59.htm,21.0,55.0,8.0,Thrill
+cedar fair,canada's wonderland,flight deck,109.3,49.7,2260.5,5,https://rcdb.com/57.htm,13.0,122.0,3.0,Thrill
+cedar fair,knott's berry farm,hangtime,150.0,57.0,2198.0,5,https://rcdb.com/15413.htm,39.0,131.0,2.0,Thrill
+cedar fair,knott's berry farm,ghostrider,118.0,56.0,4533.0,0,https://rcdb.com/526.htm,79.0,65.0,4.0,Thrill
+cedar fair,knott's berry farm,jaguar!,65.0,35.0,2602.0,0,https://rcdb.com/291.htm,33.0,37.0,5.0,Family
+cedar fair,knott's berry farm,pony express,44.3,38.0,1250.0,0,https://rcdb.com/4089.htm,31.0,25.0,8.0,Family
+cedar fair,knott's berry farm,coast rider,52.0,37.0,1339.0,0,https://rcdb.com/11074.htm,29.0,27.0,7.0,Family
+cedar fair,knott's berry farm,xcelerator,205.0,82.0,2202.0,0,https://rcdb.com/1574.htm,44.0,72.0,3.0,Thrill
+cedar fair,knott's berry farm,sierra sidewinder,64.0,36.9,1505.9,0,https://rcdb.com/3704.htm,36.0,30.0,6.0,Family
+cedar fair,knott's berry farm,silver bullet,146.0,55.0,3125.0,6,https://rcdb.com/2536.htm,28.0,151.0,1.0,Thrill
+cedar fair,california's great america,psycho mouse,,,1257.0,0,https://rcdb.com/1036.htm,34.0,,,Thrill
+cedar fair,california's great america,woodstock express,,,1300.0,0,https://rcdb.com/78.htm,0.0,,,Thrill
+cedar fair,california's great america,patriot,91.0,45.0,1920.0,2,https://rcdb.com/79.htm,14.0,70.0,4.0,Thrill
+cedar fair,california's great america,demon,102.0,50.0,2130.0,4,https://rcdb.com/76.htm,20.0,105.0,1.0,Thrill
+cedar fair,california's great america,gold striker,108.2,53.7,3197.0,0,https://rcdb.com/10857.htm,29.0,54.0,5.0,Thrill
+cedar fair,california's great america,railblazer,106.0,52.0,1800.0,3,https://rcdb.com/15412.htm,37.0,89.0,3.0,Thrill
+cedar fair,california's great america,grizzly,91.0,55.0,3250.0,0,https://rcdb.com/77.htm,27.0,51.0,6.0,Thrill
+cedar fair,california's great america,flight deck,102.0,50.0,2260.0,3,https://rcdb.com/80.htm,25.0,90.0,2.0,Thrill
+cedar fair,kings dominion,tumbili,112.0,34.0,770.0,0,https://rcdb.com/18846.htm,15.0,34.0,8.0,Family
+cedar fair,kings dominion,backlot stunt coaster,45.2,40.0,1960.0,0,https://rcdb.com/3302.htm,12.0,30.0,9.0,Family
+cedar fair,kings dominion,racer 75,85.0,56.0,3368.5,0,https://rcdb.com/88.htm,6.0,51.0,6.0,Thrill
+cedar fair,kings dominion,flight of fear,74.2,54.0,2705.0,4,https://rcdb.com/138.htm,25.0,104.0,4.0,Thrill
+cedar fair,kings dominion,twisted timbers,111.0,54.0,3361.0,3,https://rcdb.com/15028.htm,21.0,100.0,5.0,Thrill
+cedar fair,kings dominion,reptilian,,41.0,,0,https://rcdb.com/282.htm,15.0,,,Thrill
+cedar fair,kings dominion,grizzly,87.0,51.0,3150.0,0,https://rcdb.com/90.htm,7.0,49.0,7.0,Family
+cedar fair,kings dominion,woodstock express,35.0,35.0,1385.0,0,https://rcdb.com/89.htm,11.0,23.0,11.0,Kids
+cedar fair,kings dominion,rapterra,145.0,65.0,3086.0,3,https://rcdb.com/21885.htm,27.0,108.0,3.0,Thrill
+cedar fair,kings dominion,apple zapple,51.8,35.0,1312.3,0,https://rcdb.com/930.htm,12.0,26.0,10.0,Family
+cedar fair,kings dominion,dominator,157.0,65.0,4210.0,5,https://rcdb.com/4079.htm,14.0,147.0,1.0,Thrill
+cedar fair,kings dominion,pantherian,305.0,90.0,5100.0,0,https://rcdb.com/4520.htm,20.0,113.0,2.0,Thrill
+cedar fair,dorney park,hydra the revenge,95.0,53.0,3198.0,7,https://rcdb.com/2528.htm,15.0,156.0,1.0,Thrill
+cedar fair,dorney park,possessed,185.0,70.0,629.9,0,https://rcdb.com/4039.htm,8.0,55.0,5.0,Thrill
+cedar fair,dorney park,iron menace,160.0,64.0,2169.0,4,https://rcdb.com/21085.htm,17.0,119.0,2.0,Thrill
+cedar fair,dorney park,steel force,200.0,75.0,5600.0,0,https://rcdb.com/276.htm,11.0,92.0,4.0,Thrill
+cedar fair,dorney park,thunderhawk,80.0,45.0,2767.0,0,https://rcdb.com/239.htm,10.0,43.0,6.0,Family
+cedar fair,dorney park,woodstock express,13.0,10.0,262.5,0,https://rcdb.com/642.htm,0.0,6.0,8.0,Kids
+cedar fair,dorney park,wild mouse,49.3,28.0,1213.9,0,https://rcdb.com/601.htm,30.0,24.0,7.0,Kids
+cedar fair,dorney park,talon,135.0,58.0,3110.0,4,https://rcdb.com/735.htm,15.0,119.0,2.0,Thrill
+cedar fair,worlds of fun,cosmic coaster,15.0,5.0,444.0,0,https://rcdb.com/102.htm,0.0,7.0,8.0,Kids
+cedar fair,worlds of fun,spinning dragons,54.0,31.0,1345.0,0,https://rcdb.com/2572.htm,38.0,26.0,7.0,Family
+cedar fair,worlds of fun,mamba,205.0,75.0,5600.0,0,https://rcdb.com/469.htm,24.0,93.0,2.0,Thrill
+cedar fair,worlds of fun,prowler,102.3,51.2,3074.0,0,https://rcdb.com/4296.htm,15.0,51.0,5.0,Thrill
+cedar fair,worlds of fun,boomerang,116.5,47.0,935.0,3,https://rcdb.com/653.htm,16.0,84.0,3.0,Thrill
+cedar fair,worlds of fun,patriot,149.0,60.0,3081.0,4,https://rcdb.com/3244.htm,28.0,122.0,1.0,Thrill
+cedar fair,worlds of fun,timber wolf,100.0,53.0,4230.0,0,https://rcdb.com/22.htm,21.0,59.0,4.0,Thrill
+cedar fair,worlds of fun,zambezi zinger,74.0,45.0,2428.0,0,https://rcdb.com/20340.htm,30.0,40.0,6.0,Family
+cedar fair,valleyfair,excalibur,100.0,54.5,2415.0,0,https://rcdb.com/119.htm,6.0,47.0,5.0,Family
+cedar fair,valleyfair,mad mouse,50.0,30.0,1257.0,0,https://rcdb.com/547.htm,27.0,24.0,7.0,Kids
+cedar fair,valleyfair,steel venom,185.0,70.0,630.0,0,https://rcdb.com/1920.htm,19.0,55.0,3.0,Thrill
+cedar fair,valleyfair,high roller,70.0,50.0,2982.0,0,https://rcdb.com/117.htm,18.0,44.0,6.0,Family
+cedar fair,valleyfair,cosmic coaster,14.0,20.0,213.3,0,https://rcdb.com/9837.htm,0.0,8.0,8.0,Kids
+cedar fair,valleyfair,wild thing,207.0,74.0,5460.0,0,https://rcdb.com/137.htm,18.0,93.0,1.0,Thrill
+cedar fair,valleyfair,corkscrew,85.0,50.0,1950.0,3,https://rcdb.com/118.htm,13.0,85.0,2.0,Thrill
+cedar fair,valleyfair,renegade,97.5,51.3,3113.0,0,https://rcdb.com/3660.htm,18.0,51.0,4.0,Thrill
+cedar fair,michigan's adventure,shivering timbers,122.0,57.0,5383.0,0,https://rcdb.com/478.htm,27.0,72.0,2.0,Thrill
+cedar fair,michigan's adventure,zach's zoomer,41.0,,1400.0,0,https://rcdb.com/415.htm,0.0,,,Thrill
+cedar fair,michigan's adventure,thunderhawk,109.3,49.7,2260.5,5,https://rcdb.com/4053.htm,22.0,122.0,1.0,Thrill
+cedar fair,michigan's adventure,mad mouse,68.0,,1268.0,0,https://rcdb.com/537.htm,35.0,,,Thrill
+cedar fair,michigan's adventure,wolverine wildcat,85.0,55.0,3000.0,0,https://rcdb.com/219.htm,26.0,48.0,4.0,Family
+cedar fair,michigan's adventure,corkscrew,70.0,45.0,1250.0,2,https://rcdb.com/218.htm,0.0,61.0,3.0,Thrill
+cedar fair,michigan's adventure,woodstock express,16.1,,,0,https://rcdb.com/15124.htm,0.0,,,Thrill
+six flags,six flags magic mountain,riddler's revenge,156.0,65.0,4370.0,6,https://rcdb.com/470.htm,18.0,163.0,3.0,Thrill
+six flags,six flags magic mountain,viper,188.0,70.0,3830.0,7,https://rcdb.com/25.htm,11.0,182.0,1.0,Thrill
+six flags,six flags magic mountain,x2,175.0,76.0,3610.0,2,https://rcdb.com/750.htm,44.0,104.0,8.0,Thrill
+six flags,six flags magic mountain,new revolution,113.0,55.0,3457.0,1,https://rcdb.com/130.htm,25.0,72.0,12.0,Thrill
+six flags,six flags magic mountain,twisted colossus,121.0,57.0,4990.0,2,https://rcdb.com/12282.htm,37.0,99.0,9.0,Thrill
+six flags,six flags magic mountain,full throttle,164.0,70.0,2200.0,2,https://rcdb.com/10948.htm,35.0,91.0,11.0,Thrill
+six flags,six flags magic mountain,gold rusher,70.0,35.0,2590.0,0,https://rcdb.com/266.htm,8.0,38.0,15.0,Family
+six flags,six flags magic mountain,ninja,60.0,55.0,2700.0,0,https://rcdb.com/129.htm,19.0,41.0,14.0,Family
+six flags,six flags magic mountain,wonder woman flight of courage,131.0,58.0,3300.0,3,https://rcdb.com/19515.htm,32.0,105.0,7.0,Thrill
+six flags,six flags magic mountain,canyon blaster,16.0,10.0,416.0,0,https://rcdb.com/576.htm,2.0,8.0,17.0,Kids
+six flags,six flags magic mountain,scream!,150.0,63.0,3985.0,7,https://rcdb.com/2169.htm,14.0,174.0,2.0,Thrill
+six flags,six flags magic mountain,batman the ride,105.0,50.0,2700.0,5,https://rcdb.com/24.htm,15.0,124.0,5.0,Thrill
+six flags,six flags magic mountain,tatsu,170.0,62.0,3602.0,4,https://rcdb.com/3305.htm,38.0,130.0,4.0,Thrill
+six flags,six flags magic mountain,speedy gonzales hot rod racers,13.1,,262.5,0,https://rcdb.com/9971.htm,2.0,,,Thrill
+six flags,six flags magic mountain,west coast racers,67.0,55.0,4000.0,4,https://rcdb.com/16588.htm,41.0,111.0,6.0,Thrill
+six flags,six flags magic mountain,road runner express,27.9,21.7,679.1,0,https://rcdb.com/4346.htm,2.0,14.0,16.0,Kids
+six flags,six flags magic mountain,goliath,235.0,85.0,4500.0,0,https://rcdb.com/615.htm,30.0,94.0,10.0,Thrill
+six flags,six flags magic mountain,apocalypse the ride,95.0,50.1,2877.0,0,https://rcdb.com/4173.htm,27.0,48.0,13.0,Family
+six flags,six flags great adventure & safari,nitro,230.0,80.0,5394.0,0,https://rcdb.com/1106.htm,20.0,98.0,4.0,Thrill
+six flags,six flags great adventure & safari,flash: vertical velocity,172.0,59.0,1430.4,2,https://rcdb.com/21088.htm,0.0,86.0,5.0,Thrill
+six flags,six flags great adventure & safari,harley quinn crazy train,26.3,22.4,1181.1,0,https://rcdb.com/567.htm,8.0,18.0,11.0,Kids
+six flags,six flags great adventure & safari,el toro,181.0,70.0,4400.0,0,https://rcdb.com/3183.htm,14.0,80.0,6.0,Thrill
+six flags,six flags great adventure & safari,lil' devil coaster,13.0,,262.5,0,https://rcdb.com/19460.htm,0.0,,,Thrill
+six flags,six flags great adventure & safari,skull mountain,40.5,33.0,1377.0,0,https://rcdb.com/35.htm,11.0,24.0,10.0,Kids
+six flags,six flags great adventure & safari,medusa,142.0,61.0,3985.0,7,https://rcdb.com/502.htm,9.0,172.0,1.0,Thrill
+six flags,six flags great adventure & safari,dark knight,,,1213.0,0,https://rcdb.com/4047.htm,12.0,,,Thrill
+six flags,six flags great adventure & safari,joker,120.0,38.0,1019.0,0,https://rcdb.com/13421.htm,21.0,38.0,8.0,Family
+six flags,six flags great adventure & safari,runaway mine train,60.0,38.0,2429.0,0,https://rcdb.com/131.htm,7.0,36.0,9.0,Family
+six flags,six flags great adventure & safari,superman - ultimate flight,106.0,51.0,2759.0,2,https://rcdb.com/1976.htm,26.0,80.0,6.0,Thrill
+six flags,six flags great adventure & safari,batman the ride,105.0,50.0,2693.0,5,https://rcdb.com/32.htm,14.0,124.0,2.0,Thrill
+six flags,six flags great adventure & safari,jersey devil coaster,130.0,58.0,3000.0,3,https://rcdb.com/17658.htm,17.0,103.0,3.0,Thrill
+six flags,six flags great america,viper,100.0,50.0,3458.0,0,https://rcdb.com/10.htm,17.0,53.0,11.0,Thrill
+six flags,six flags great america,flash: vertical velocity,185.0,70.0,630.0,0,https://rcdb.com/747.htm,21.0,55.0,10.0,Thrill
+six flags,six flags great america,raging bull,202.0,73.0,5057.0,0,https://rcdb.com/535.htm,33.0,89.0,7.0,Thrill
+six flags,six flags great america,joker,120.0,38.0,1019.0,0,https://rcdb.com/14187.htm,29.0,38.0,13.0,Family
+six flags,six flags great america,demon,103.7,50.0,2130.0,4,https://rcdb.com/3.htm,12.0,105.0,5.0,Thrill
+six flags,six flags great america,dark knight,,,1213.0,0,https://rcdb.com/4046.htm,30.0,,,Thrill
+six flags,six flags great america,little dipper,28.0,20.0,700.0,0,https://rcdb.com/8985.htm,0.0,14.0,14.0,Kids
+six flags,six flags great america,goliath,165.0,72.0,3100.0,2,https://rcdb.com/9972.htm,38.0,98.0,6.0,Thrill
+six flags,six flags great america,batman the ride,100.0,50.0,2700.0,5,https://rcdb.com/5.htm,25.0,123.0,3.0,Thrill
+six flags,six flags great america,superman - ultimate flight,106.0,51.0,2798.0,2,https://rcdb.com/1977.htm,42.0,80.0,8.0,Thrill
+six flags,six flags great america,x-flight,120.0,55.0,3000.0,5,https://rcdb.com/10137.htm,34.0,130.0,2.0,Thrill
+six flags,six flags great america,sprocket rockets,27.9,21.7,679.1,0,https://rcdb.com/488.htm,0.0,14.0,14.0,Kids
+six flags,six flags great america,wrath of rakshasa,180.0,67.0,3239.0,5,https://rcdb.com/22031.htm,41.0,146.0,1.0,Thrill
+six flags,six flags great america,american eagle,127.0,66.0,4650.0,0,https://rcdb.com/9.htm,19.0,70.0,9.0,Thrill
+six flags,six flags great america,maxx force,175.0,78.0,1800.0,4,https://rcdb.com/16586.htm,44.0,123.0,3.0,Thrill
+six flags,six flags great america,whizzer,70.0,42.0,3100.0,0,https://rcdb.com/113.htm,26.0,43.0,12.0,Family
+six flags,six flags over texas,runaway mountain,65.0,40.0,1500.0,0,https://rcdb.com/31.htm,19.0,31.0,9.0,Family
+six flags,six flags over texas,mini mine train,20.0,20.0,910.0,0,https://rcdb.com/97.htm,6.0,14.0,12.0,Kids
+six flags,six flags over texas,batman the ride,105.0,50.0,2700.0,5,https://rcdb.com/552.htm,20.0,124.0,1.0,Thrill
+six flags,six flags over texas,titan,245.0,85.0,5312.0,0,https://rcdb.com/742.htm,16.0,101.0,2.0,Thrill
+six flags,six flags over texas,aquaman: power wave,146.3,62.1,708.7,0,https://rcdb.com/17653.htm,17.0,46.0,6.0,Family
+six flags,six flags over texas,new texas giant,153.0,65.0,4200.0,0,https://rcdb.com/11662.htm,30.0,72.0,5.0,Thrill
+six flags,six flags over texas,joker,120.0,38.0,1019.0,0,https://rcdb.com/14188.htm,18.0,38.0,8.0,Family
+six flags,six flags over texas,pandemonium,53.0,31.0,1351.0,0,https://rcdb.com/4042.htm,26.0,26.0,11.0,Family
+six flags,six flags over texas,runaway mine train,35.0,35.0,2485.0,0,https://rcdb.com/30.htm,11.0,31.0,9.0,Family
+six flags,six flags over texas,judge roy scream,71.0,45.0,2670.0,0,https://rcdb.com/29.htm,7.0,41.0,7.0,Family
+six flags,six flags over texas,shock wave,116.0,60.0,3600.0,2,https://rcdb.com/28.htm,11.0,89.0,3.0,Thrill
+six flags,six flags over texas,mr. freeze,218.0,70.0,1300.0,1,https://rcdb.com/281.htm,25.0,81.0,4.0,Thrill
+six flags,six flags over texas,wile e. coyote's grand canyon blaster,16.1,15.0,,0,https://rcdb.com/1117.htm,4.0,,,Thrill
+six flags,six flags fiesta texas,superman krypton coaster,168.0,70.0,4025.0,6,https://rcdb.com/605.htm,16.0,164.0,1.0,Thrill
+six flags,six flags fiesta texas,poltergeist,78.8,60.0,2705.0,4,https://rcdb.com/528.htm,19.0,106.0,3.0,Thrill
+six flags,six flags fiesta texas,boomerang coast to coaster,116.5,47.0,935.0,3,https://rcdb.com/529.htm,23.0,84.0,7.0,Thrill
+six flags,six flags fiesta texas,wonder woman golden lasso coaster,113.0,52.0,1800.0,3,https://rcdb.com/15368.htm,28.0,90.0,4.0,Thrill
+six flags,six flags fiesta texas,pandemonium,48.0,31.0,1351.0,0,https://rcdb.com/3751.htm,14.0,25.0,10.0,Family
+six flags,six flags fiesta texas,batman the ride,120.0,38.0,1019.0,0,https://rcdb.com/12283.htm,15.0,38.0,8.0,Family
+six flags,six flags fiesta texas,iron rattler,179.0,70.0,3266.0,1,https://rcdb.com/11663.htm,30.0,87.0,6.0,Thrill
+six flags,six flags fiesta texas,dr. diabolical's cliffhanger,150.0,60.0,2501.0,2,https://rcdb.com/19495.htm,6.0,89.0,5.0,Thrill
+six flags,six flags fiesta texas,road runner express,73.0,35.0,2400.0,0,https://rcdb.com/265.htm,18.0,38.0,8.0,Family
+six flags,six flags fiesta texas,chupacabra,105.0,50.0,2693.0,5,https://rcdb.com/3976.htm,13.0,124.0,2.0,Thrill
+six flags,six flags fiesta texas,batgirl coaster chase,,,278.9,0,https://rcdb.com/207.htm,1.0,,,Thrill
+six flags,six flags over georgia,twisted cyclone,100.0,50.0,2400.0,3,https://rcdb.com/15457.htm,17.0,91.0,3.0,Thrill
+six flags,six flags over georgia,superman - ultimate flight,106.0,51.0,2759.0,2,https://rcdb.com/1568.htm,19.0,80.0,7.0,Thrill
+six flags,six flags over georgia,dahlonega mine train,37.0,29.0,2327.0,0,https://rcdb.com/42.htm,8.0,29.0,11.0,Family
+six flags,six flags over georgia,georgia gold rusher,144.0,60.0,590.0,0,https://rcdb.com/21112.htm,13.0,45.0,10.0,Family
+six flags,six flags over georgia,batman the ride,105.0,50.0,2700.0,5,https://rcdb.com/421.htm,17.0,124.0,2.0,Thrill
+six flags,six flags over georgia,riddler mindbender,80.0,50.0,3253.0,2,https://rcdb.com/37.htm,11.0,78.0,8.0,Thrill
+six flags,six flags over georgia,joker funhouse coaster,,30.0,900.0,0,https://rcdb.com/2655.htm,5.0,,,Thrill
+six flags,six flags over georgia,goliath,200.0,70.0,4480.0,0,https://rcdb.com/3290.htm,17.0,84.0,5.0,Thrill
+six flags,six flags over georgia,blue hawk,122.0,52.0,2739.5,5,https://rcdb.com/40.htm,9.0,128.0,1.0,Thrill
+six flags,six flags over georgia,great american scream machine,105.0,57.0,3450.0,0,https://rcdb.com/41.htm,12.0,55.0,9.0,Thrill
+six flags,six flags over georgia,georgia scorcher,107.0,54.0,3000.0,2,https://rcdb.com/556.htm,13.0,82.0,6.0,Thrill
+six flags,six flags over georgia,dare devil dive,95.0,52.0,2099.0,3,https://rcdb.com/9430.htm,25.0,88.0,4.0,Thrill
+six flags,six flags new england,thunderbolt,70.0,40.0,2600.0,0,https://rcdb.com/182.htm,22.0,39.0,6.0,Family
+six flags,six flags new england,catwoman's whip,26.3,22.4,1181.1,0,https://rcdb.com/630.htm,6.0,18.0,9.0,Kids
+six flags,six flags new england,superman the ride,208.0,77.0,5400.0,0,https://rcdb.com/628.htm,21.0,93.0,4.0,Thrill
+six flags,six flags new england,flashback,116.5,47.0,935.0,3,https://rcdb.com/629.htm,7.0,84.0,5.0,Thrill
+six flags,six flags new england,riddler revenge,109.3,49.7,2260.5,5,https://rcdb.com/429.htm,23.0,122.0,2.0,Thrill
+six flags,six flags new england,joker,120.0,38.0,1019.0,0,https://rcdb.com/14189.htm,15.0,38.0,7.0,Family
+six flags,six flags new england,pandemonium,42.0,,,0,https://rcdb.com/3031.htm,25.0,,,Thrill
+six flags,six flags new england,batman - the dark knight,117.8,55.0,2600.0,5,https://rcdb.com/1549.htm,18.0,127.0,1.0,Thrill
+six flags,six flags new england,gotham city gauntlet escape from arkham asylum,49.3,28.0,1213.9,0,https://rcdb.com/9431.htm,14.0,24.0,8.0,Kids
+six flags,six flags new england,wicked cyclone,109.0,55.0,3320.0,3,https://rcdb.com/1981.htm,17.0,100.0,3.0,Thrill
+six flags,six flags discovery kingdom,medusa,150.0,65.0,3937.0,7,https://rcdb.com/617.htm,26.0,174.0,1.0,Thrill
+six flags,six flags discovery kingdom,cobra,26.3,22.4,1181.1,0,https://rcdb.com/691.htm,8.0,18.0,9.0,Kids
+six flags,six flags discovery kingdom,boomerang,116.5,47.0,935.0,3,https://rcdb.com/357.htm,17.0,84.0,4.0,Thrill
+six flags,six flags discovery kingdom,superman ultimate flight,150.0,62.0,863.0,1,https://rcdb.com/10139.htm,27.0,63.0,5.0,Thrill
+six flags,six flags discovery kingdom,batman the ride,120.0,38.0,1019.0,0,https://rcdb.com/16587.htm,30.0,38.0,7.0,Family
+six flags,six flags discovery kingdom,flash: vertical velocity,150.0,65.0,630.0,1,https://rcdb.com/1143.htm,13.0,62.0,6.0,Thrill
+six flags,six flags discovery kingdom,sidewinder safari,42.7,29.1,1378.0,0,https://rcdb.com/17660.htm,33.0,24.0,8.0,Kids
+six flags,six flags discovery kingdom,kong,109.3,49.7,2260.5,5,https://rcdb.com/163.htm,18.0,122.0,2.0,Thrill
+six flags,six flags discovery kingdom,roadrunner express,13.0,,262.5,0,https://rcdb.com/572.htm,7.0,,,Thrill
+six flags,six flags discovery kingdom,joker,100.0,53.0,3200.0,3,https://rcdb.com/13422.htm,40.0,97.0,3.0,Thrill
+six flags,six flags st. louis,screamin' eagle,110.0,62.0,3872.0,0,https://rcdb.com/44.htm,11.0,60.0,6.0,Thrill
+six flags,six flags st. louis,ninja,108.3,54.7,2427.8,4,https://rcdb.com/124.htm,6.0,109.0,2.0,Thrill
+six flags,six flags st. louis,mr. freeze reverse blast,218.0,70.0,1300.0,1,https://rcdb.com/427.htm,16.0,81.0,4.0,Thrill
+six flags,six flags st. louis,rookie racer,41.0,27.0,843.0,0,https://rcdb.com/20702.htm,9.0,19.0,10.0,Kids
+six flags,six flags st. louis,pandemonium,48.0,31.0,1351.0,0,https://rcdb.com/3810.htm,14.0,25.0,9.0,Family
+six flags,six flags st. louis,batman the ride,105.0,50.0,2693.0,5,https://rcdb.com/43.htm,15.0,124.0,1.0,Thrill
+six flags,six flags st. louis,american thunder,82.0,48.0,2713.0,0,https://rcdb.com/4045.htm,10.0,44.0,7.0,Family
+six flags,six flags st. louis,boomerang,116.5,47.0,935.0,3,https://rcdb.com/10947.htm,11.0,84.0,3.0,Thrill
+six flags,six flags st. louis,river king mine train,32.0,37.0,2500.0,0,https://rcdb.com/125.htm,9.0,30.0,8.0,Family
+six flags,six flags st. louis,boss,122.0,66.3,4631.0,0,https://rcdb.com/616.htm,14.0,69.0,5.0,Thrill
+six flags,six flags darien lake,predator,95.0,50.0,3400.0,0,https://rcdb.com/223.htm,6.0,52.0,6.0,Thrill
+six flags,six flags darien lake,hoot n holler,10.8,16.2,197.5,0,https://rcdb.com/751.htm,0.0,7.0,8.0,Kids
+six flags,six flags darien lake,mind eraser,109.3,49.7,2260.5,5,https://rcdb.com/430.htm,7.0,122.0,2.0,Thrill
+six flags,six flags darien lake,viper,121.0,50.0,3100.0,5,https://rcdb.com/224.htm,8.0,130.0,1.0,Thrill
+six flags,six flags darien lake,moto coaster,42.7,37.3,1194.2,0,https://rcdb.com/4138.htm,7.0,24.0,7.0,Kids
+six flags,six flags darien lake,boomerang,116.5,47.0,935.0,3,https://rcdb.com/490.htm,1.0,84.0,4.0,Thrill
+six flags,six flags darien lake,ride of steel,208.0,73.0,5400.0,0,https://rcdb.com/541.htm,11.0,92.0,3.0,Thrill
+six flags,six flags darien lake,tantrum,98.4,52.8,1246.7,3,https://rcdb.com/15603.htm,10.0,84.0,4.0,Thrill
+six flags,six flags great escape,steamin' demon,85.0,40.0,1565.0,3,https://rcdb.com/264.htm,2.0,80.0,2.0,Thrill
+six flags,six flags great escape,frankie's mine train,13.0,16.0,262.5,0,https://rcdb.com/3079.htm,2.0,8.0,6.0,Kids
+six flags,six flags great escape,canyon blaster,56.0,45.0,2036.0,0,https://rcdb.com/2214.htm,11.0,34.0,4.0,Family
+six flags,six flags great escape,flashback,116.5,47.0,935.0,3,https://rcdb.com/431.htm,7.0,84.0,1.0,Thrill
+six flags,six flags great escape,comet,95.0,55.0,4197.0,0,https://rcdb.com/262.htm,5.0,58.0,3.0,Thrill
+six flags,six flags great escape,bobcat,55.4,40.0,1412.0,0,https://rcdb.com/21145.htm,0.0,28.0,5.0,Family
+six flags,la ronde,toboggan nordique,41.0,11.2,885.8,0,https://rcdb.com/2245.htm,39.0,16.0,6.0,Kids
+six flags,la ronde,ednör - l'attaque,109.3,49.7,2260.5,5,https://rcdb.com/8662.htm,0.0,122.0,2.0,Thrill
+six flags,la ronde,boomerang,116.5,47.0,935.0,3,https://rcdb.com/187.htm,13.0,84.0,3.0,Thrill
+six flags,la ronde,vampire,105.0,50.0,2700.2,5,https://rcdb.com/1567.htm,11.0,124.0,1.0,Thrill
+six flags,la ronde,goliath,174.8,68.3,4038.8,0,https://rcdb.com/3385.htm,17.0,76.0,4.0,Thrill
+six flags,la ronde,monstre,130.9,59.7,3996.1,0,https://rcdb.com/186.htm,35.0,65.0,5.0,Thrill
+six flags,frontier city,silver bullet,80.0,47.8,1942.0,1,https://rcdb.com/153.htm,19.0,54.0,1.0,Thrill
+six flags,frontier city,steel lasso,49.0,30.0,967.8,0,https://rcdb.com/4191.htm,13.0,22.0,4.0,Kids
+six flags,frontier city,diamondback,56.0,45.0,635.0,1,https://rcdb.com/586.htm,9.0,39.0,3.0,Family
+six flags,frontier city,wildcat,75.0,46.0,2653.0,0,https://rcdb.com/155.htm,14.0,42.0,2.0,Family
+six flags,frontier city,frankie's mine train,,,262.5,0,https://rcdb.com/16589.htm,4.0,,,Thrill
+six flags,six flags mexico,superman krypton coaster,27.9,21.7,679.1,0,https://rcdb.com/359.htm,11.0,14.0,8.0,Kids
+six flags,six flags mexico,joker,53.0,31.0,1351.0,0,https://rcdb.com/10972.htm,7.0,26.0,6.0,Family
+six flags,six flags mexico,batman the ride,109.3,49.7,2260.5,5,https://rcdb.com/639.htm,27.0,122.0,1.0,Thrill
+six flags,six flags mexico,medusa steel coaster,98.0,58.0,3000.0,3,https://rcdb.com/11664.htm,34.0,96.0,2.0,Thrill
+six flags,six flags mexico,wonder woman,120.0,38.0,1019.0,0,https://rcdb.com/15460.htm,7.0,38.0,5.0,Family
+six flags,six flags mexico,superman el último escape,219.8,74.6,5577.4,0,https://rcdb.com/2829.htm,29.0,96.0,2.0,Thrill
+six flags,six flags mexico,batgirl batarang,116.5,47.0,935.0,3,https://rcdb.com/580.htm,35.0,84.0,4.0,Thrill
+six flags,six flags mexico,tsunami,26.3,22.4,1181.1,0,https://rcdb.com/358.htm,9.0,18.0,7.0,Kids
+six flags,six flags mexico,dark knight,,,1213.0,0,https://rcdb.com/4320.htm,11.0,,,Thrill
+six flags,six flags qiddiya city,colossus,94.5,50.2,2918.6,0,https://rcdb.com/21314.htm,,48.0,4.0,Family
+six flags,six flags qiddiya city,saw mill falls,73.8,46.0,2575.5,0,https://rcdb.com/21309.htm,,41.0,5.0,Family
+six flags,six flags qiddiya city,falcons flight,534.8,155.3,13943.6,0,https://rcdb.com/21315.htm,,231.0,1.0,Thrill
+six flags,six flags qiddiya city,spitfire,239.5,78.9,1909.4,1,https://rcdb.com/21313.htm,,91.0,3.0,Thrill
+six flags,six flags qiddiya city,adrena-line,65.6,44.7,1620.7,0,https://rcdb.com/21311.htm,,33.0,6.0,Family
+six flags,six flags qiddiya city,iron rattler,208.0,73.3,4068.2,5,https://rcdb.com/21312.htm,,158.0,2.0,Thrill
+six flags,six flags qiddiya city,twilight express,41.0,24.9,1148.3,0,https://rcdb.com/21310.htm,,21.0,8.0,Kids
+six flags,six flags qiddiya city,sea stallion,39.4,43.5,1673.2,0,https://rcdb.com/21308.htm,,28.0,7.0,Family
+legoland,legoland california,dragon,140.091868,28.5,1246.7,0,https://rcdb.com/554.htm,10.0,42.0,1.0,Family
+legoland,legoland california,coastersaurus,18.1,20.5,492.2,0,https://rcdb.com/2614.htm,33.0,11.0,3.0,Kids
+legoland,legoland california,technic coaster,51.8,35.0,1312.3,0,https://rcdb.com/1144.htm,22.0,26.0,2.0,Family
+legoland,legoland florida,dragon,42.7,28.5,1496.1,0,https://rcdb.com/2737.htm,12.0,24.0,2.0,Kids
+legoland,legoland florida,great lego race,51.8,35.0,1312.3,0,https://rcdb.com/9526.htm,15.0,26.0,1.0,Family
+legoland,legoland florida,coastersaurus,40.0,32.0,1365.0,0,https://rcdb.com/2746.htm,13.0,24.0,2.0,Kids
+legoland,legoland new york,dragon's apprentice,13.1,,262.5,0,https://rcdb.com/17779.htm,6.0,,,Thrill
+legoland,legoland billund,flying eagle,36.1,28.6,921.9,0,https://rcdb.com/15488.htm,21.0,19.0,3.0,Kids
+legoland,legoland billund,x-treme racers,51.8,35.0,1312.3,0,https://rcdb.com/1634.htm,,26.0,2.0,Family
+legoland,legoland billund,minifigure speedway,,34.8,,0,https://rcdb.com/22622.htm,,,,Thrill
+legoland,legoland billund,polar x-plorer,62.3,40.4,1633.8,0,https://rcdb.com/10214.htm,13.0,31.0,1.0,Family
+legoland,legoland deutschland,maximus - der flug des wächters,55.8,33.6,1499.3,2,https://rcdb.com/19912.htm,,58.0,1.0,Thrill
+legoland,legoland deutschland,das große lego rennen,51.8,35.0,1312.3,0,https://rcdb.com/1462.htm,,26.0,3.0,Family
+legoland,legoland deutschland,feuerdrache,52.5,35.1,1476.4,0,https://rcdb.com/1476.htm,,27.0,2.0,Family
+legoland,legoland deutschland,drachenjagd,18.1,20.5,492.2,0,https://rcdb.com/1683.htm,,11.0,4.0,Kids
+legoland,legoland dubai,dragon,52.5,37.3,,0,https://rcdb.com/13463.htm,,,,Thrill
+legoland,legoland japan,dragon / ザ・ドラゴン,,35.4,,0,https://rcdb.com/13645.htm,10.0,,,Thrill
+legoland,legoland shanghai,dragon / 飞龙过山车,52.5,37.3,,0,https://rcdb.com/21321.htm,,,,Thrill
+legoland,legoland windsor,duplo dino coaster,9.8,,219.8,0,https://rcdb.com/17692.htm,,,,Thrill
+legoland,legoland windsor,minifigure speedway,,34.8,,0,https://rcdb.com/21316.htm,,,,Thrill
+merlin,alton towers,th13teen,65.6,41.6,2480.3,0,https://rcdb.com/4463.htm,41.0,38.0,5.0,Family
+merlin,alton towers,nemesis reborn,42.6,50.0,2349.0,4,https://rcdb.com/776.htm,33.0,94.0,2.0,Thrill
+merlin,alton towers,rita,68.8,61.1,2099.7,0,https://rcdb.com/2787.htm,38.0,40.0,4.0,Family
+merlin,alton towers,oblivion,65.0,68.0,1222.0,0,https://rcdb.com/777.htm,24.0,35.0,6.0,Family
+merlin,alton towers,wicker man,,,65.6168,0,https://rcdb.com/15029.htm,46.0,,,Thrill
+merlin,alton towers,spinball whizzer,55.8,37.28226,1476.4,0,https://rcdb.com/2472.htm,30.0,28.0,7.0,Family
+merlin,alton towers,smiler,98.4252,52.8,3838.6,14,https://rcdb.com/11062.htm,51.0,266.0,1.0,Thrill
+merlin,alton towers,octonauts rollercoaster adventure,22.0,18.6,469.2,0,https://rcdb.com/12592.htm,22.0,11.0,9.0,Kids
+merlin,alton towers,runaway mine train,36.08924,22.4,1000.0,0,https://rcdb.com/800.htm,20.0,18.0,8.0,Kids
+merlin,alton towers,galactica,65.6,46.6,2755.9,2,https://rcdb.com/1458.htm,31.0,71.0,3.0,Thrill
+merlin,chessington world of adventures,dragon's fury,50.8,,1706.0,0,https://rcdb.com/2410.htm,49.0,,,Thrill
+merlin,chessington world of adventures,mandrill mayhem,65.6,44.7,1246.7,1,https://rcdb.com/20349.htm,0.0,45.0,1.0,Family
+merlin,chessington world of adventures,vampire,68.89764,45.0,2200.0,0,https://rcdb.com/784.htm,44.0,37.0,2.0,Family
+merlin,chessington world of adventures,rattlesnake,49.3,28.0,1213.9,0,https://rcdb.com/785.htm,33.0,24.0,3.0,Kids
+merlin,heide park resort,grottenblitz,19.7,28.0,1213.8,0,https://rcdb.com/985.htm,6.0,18.0,8.0,Kids
+merlin,heide park resort,bobbahn,88.6,32.9,3248.0,0,https://rcdb.com/984.htm,20.0,46.0,6.0,Family
+merlin,heide park resort,desert race,62.3,63.4,2132.5,0,https://rcdb.com/3617.htm,13.0,39.0,7.0,Family
+merlin,heide park resort,colossos - kampf der giganten,164.0,68.4,4409.4,0,https://rcdb.com/988.htm,25.0,76.0,4.0,Thrill
+merlin,heide park resort,flug der dämonen,131.2,62.1,2532.8,5,https://rcdb.com/6667.htm,21.0,131.0,1.0,Thrill
+merlin,heide park resort,krake,134.5,64.0,1561.7,1,https://rcdb.com/9097.htm,19.0,65.0,5.0,Thrill
+merlin,heide park resort,indy-blitz,14.8,18.6,413.4,0,https://rcdb.com/4146.htm,6.0,9.0,9.0,Kids
+merlin,heide park resort,toxic garden,109.3,49.7,2260.5,5,https://rcdb.com/987.htm,17.0,122.0,2.0,Thrill
+merlin,heide park resort,big loop,98.4,39.2,2316.3,4,https://rcdb.com/986.htm,12.0,103.0,3.0,Thrill
+merlin,gardaland,mammut,45.9,31.1,3264.4,0,https://rcdb.com/3689.htm,26.0,37.0,5.0,Family
+merlin,gardaland,dragon rush,45.9,24.9,,0,https://rcdb.com/13726.htm,5.0,,,Thrill
+merlin,gardaland,raptor,108.3,55.9,2526.3,3,https://rcdb.com/9309.htm,18.0,95.0,3.0,Thrill
+merlin,gardaland,shaman,98.4,43.5,2460.6,4,https://rcdb.com/962.htm,12.0,105.0,2.0,Thrill
+merlin,gardaland,blue tornado,109.3,49.7,2509.8,5,https://rcdb.com/961.htm,19.0,124.0,1.0,Thrill
+merlin,gardaland,oblivion - the black hole,139.4,62.1,1856.9,2,https://rcdb.com/12050.htm,16.0,83.0,4.0,Thrill
+merlin,thorpe park,colossus,98.4,44.7,2788.7,10,https://rcdb.com/1412.htm,39.0,197.0,1.0,Thrill
+merlin,thorpe park,flying fish,20.7,18.8,767.8,0,https://rcdb.com/847.htm,11.0,13.0,8.0,Kids
+merlin,thorpe park,nemesis inferno,95.2,47.8,2460.7,4,https://rcdb.com/1747.htm,40.0,105.0,4.0,Thrill
+merlin,thorpe park,hyperia,236.0,80.0,3265.7,2,https://rcdb.com/20652.htm,66.0,115.0,2.0,Thrill
+merlin,thorpe park,saw - the ride,100.0,55.0,2362.0,3,https://rcdb.com/4162.htm,47.0,92.0,5.0,Thrill
+merlin,thorpe park,stealth,205.1,80.0,1312.3,0,https://rcdb.com/3081.htm,35.0,66.0,6.0,Thrill
+merlin,thorpe park,walking dead - the ride,41.7,27.7,1312.3,0,https://rcdb.com/846.htm,20.0,23.0,7.0,Kids
+merlin,thorpe park,swarm,127.0,59.0,2543.0,4,https://rcdb.com/9820.htm,35.0,114.0,3.0,Thrill
+disney,magic kingdom,seven dwarfs mine train,41.0,34.0,2001.3,0,https://rcdb.com/9720.htm,63.0,28.0,3.0,Family
+disney,magic kingdom,tron lightcycle / run,78.1,59.3,3169.3,0,https://rcdb.com/15286.htm,78.0,49.0,1.0,Family
+disney,magic kingdom,space mountain,90.0,27.0,3196.0,0,https://rcdb.com/267.htm,43.0,45.0,2.0,Family
+disney,magic kingdom,barnstormer,30.0,25.0,794.0,0,https://rcdb.com/274.htm,17.0,16.0,4.0,Kids
+disney,epcot,guardians of the galaxy: cosmic rewind,,60.3,5577.4,0,https://rcdb.com/15504.htm,87.0,,,Thrill
+disney,animal kingdom,expedition everest,112.0,50.0,3884.5,0,https://rcdb.com/2389.htm,29.0,58.0,1.0,Thrill
+disney,disneyland,chip & dale's gadget coaster,27.9,21.7,679.1,0,https://rcdb.com/295.htm,,14.0,3.0,Kids
+disney,disneyland,matterhorn bobsleds,80.0,27.0,2037.0,0,https://rcdb.com/200.htm,40.0,35.0,1.0,Family
+disney,disneyland,space mountain,,32.0,3459.0,0,https://rcdb.com/201.htm,48.0,,,Thrill
+disney,disneyland,big thunder mountain railroad,50.0,28.0,2671.0,0,https://rcdb.com/202.htm,33.0,33.0,2.0,Family
+disney,disney california adventure,goofy's sky school,,27.0,1200.0,0,https://rcdb.com/732.htm,31.0,,,Thrill
+disney,disney california adventure,incredicoaster,120.0,55.0,6072.0,1,https://rcdb.com/731.htm,32.0,90.0,1.0,Thrill
+disney,disneyland paris,indiana jones et le temple du péril,,,1968.5,1,https://rcdb.com/957.htm,17.0,,,Thrill
+disney,disneyland paris,"casey jr., le petit train du cirque",,,984.3,0,https://rcdb.com/1835.htm,15.0,,,Thrill
+disney,disneyland paris,big thunder mountain,72.2,40.4,3953.4,0,https://rcdb.com/956.htm,37.0,49.0,2.0,Family
+disney,disneyland paris,star wars hyperspace mountain: rebel mission,105.0,44.0,2509.8,3,https://rcdb.com/959.htm,26.0,92.0,1.0,Thrill
+disney,disneyland paris - walt disney studios park,rc racer,82.0,,269.0,0,https://rcdb.com/1170.htm,32.0,,,Thrill
+disney,disneyland paris - walt disney studios park,avengers assemble: flight force,80.0,57.0,3267.7,3,https://rcdb.com/1444.htm,16.0,94.0,1.0,Thrill
+disney,tokyo disneyland,gadget's go coaster / ガジェットのゴーコースター,27.9,21.7,679.1,0,https://rcdb.com/1184.htm,11.0,14.0,1.0,Kids
+disney,tokyo disneysea,raging spirits / レイジングスピリッツ,52.5,37.3,1968.5,1,https://rcdb.com/2424.htm,39.0,46.0,1.0,Family
+disney,tokyo disneysea,flounder's flying fish coaster / フランダーのフライングフィッシュコースター,,20.0,787.0,0,https://rcdb.com/1501.htm,15.0,,,Thrill
+disney,shanghai disneyland,rex's racer / 抱抱龙冲天赛车,91.2,47.0,269.0,0,https://rcdb.com/15163.htm,39.0,29.0,2.0,Family
+disney,shanghai disneyland,seven dwarfs mine train / 七个小矮人矿山车,44.3,28.9,2001.3,0,https://rcdb.com/11646.htm,54.0,28.0,3.0,Family
+disney,shanghai disneyland,tron lightcycle power run / 创极速光轮,78.1,59.3,3169.3,0,https://rcdb.com/6615.htm,37.0,49.0,1.0,Family
+disney,hong kong disneyland,wandering oaken’s sliding sleighs,,,977.7,0,https://rcdb.com/16343.htm,33.0,,,Thrill
+disney,hong kong disneyland,hyperspace mountain / 星战极速穿梭,100.0,,3773.0,0,https://rcdb.com/1975.htm,15.0,,,Thrill
+disney,hong kong disneyland,big grizzly mountain runaway mine cars / 灰熊山極速礦車,,34.8,3605.6,0,https://rcdb.com/9666.htm,27.0,,,Thrill
+disney,hong kong disneyland,rc / 冲天遥控车,82.0,,269.0,0,https://rcdb.com/9667.htm,27.0,,,Thrill
+universal,universal studios florida,revenge of the mummy,44.4,40.0,2200.0,0,https://rcdb.com/2232.htm,31.0,32.0,1.0,Family
+universal,universal studios florida,trolls trollercoaster,27.9,21.7,679.2,0,https://rcdb.com/563.htm,16.0,14.0,2.0,Kids
+universal,islands of adventure,hagrid's magical creatures motorbike adventure,65.0,50.0,5053.0,0,https://rcdb.com/15330.htm,103.0,57.0,3.0,Thrill
+universal,islands of adventure,incredible hulk,110.0,67.0,3700.0,7,https://rcdb.com/557.htm,31.0,165.0,1.0,Thrill
+universal,islands of adventure,flight of the hippogriff,42.7,28.5,1099.1,0,https://rcdb.com/703.htm,33.0,22.0,4.0,Kids
+universal,islands of adventure,velocicoaster,155.0,70.0,4700.0,4,https://rcdb.com/6992.htm,52.0,136.0,2.0,Thrill
+universal,epic universe,stardust racers,133.0,62.0,5000.0,1,https://rcdb.com/20549.htm,37.0,87.0,1.0,Thrill
+universal,epic universe,curse of the werewolf,,37.0,,0,https://rcdb.com/20551.htm,48.0,,,Thrill
+universal,universal studios hollywood,revenge of the mummy the ride,44.4,40.0,1906.0,0,https://rcdb.com/2464.htm,29.0,30.0,1.0,Family
+universal,universal studios hollywood,flight of the hippogriff,,,984.3,0,https://rcdb.com/12812.htm,19.0,,,Thrill
+universal,universal studios singapore,battlestar galactica,140.1,55.9,3185.7,5,https://rcdb.com/4328.htm,17.0,135.0,1.0,Thrill
+universal,universal studios singapore,revenge of the mummy,44.4,40.0,2200.0,0,https://rcdb.com/4327.htm,8.0,32.0,2.0,Family
+universal,universal studios singapore,puss in boots’ giant journey,56.8,24.9,1404.2,0,https://rcdb.com/12252.htm,11.0,26.0,3.0,Family
+universal,universal studios singapore,enchanted airways,,,1099.1,0,https://rcdb.com/4326.htm,5.0,,,Thrill
+universal,universal studios japan,hollywood dream: the ride / ハリウッド・ドリーム・ザ・ライド,144.3,55.9,3937.0,0,https://rcdb.com/3621.htm,67.0,66.0,2.0,Thrill
+universal,universal studios japan,flying dinosaur / ザ・フライング・ダイナソー,150.9,62.1,3687.7,5,https://rcdb.com/12959.htm,56.0,142.0,1.0,Thrill
+universal,universal studios japan,space fantasy - the ride: club zedd remix,62.3,25.0,1919.3,0,https://rcdb.com/9034.htm,42.0,30.0,3.0,Family
+universal,universal studios japan,flight of the hippogriff / フライト・オブ・ザ・ヒッポグリフ,,,1099.1,0,https://rcdb.com/11885.htm,72.0,,,Thrill
+universal,universal studios beijing,decepticoaster / 霸天虎过山车,121.7,63.8,4150.3,7,https://rcdb.com/17349.htm,24.0,170.0,1.0,Thrill
+universal,universal studios beijing,loop-dee-doop-dee / 萌转过山车,31.2,21.1,761.2,0,https://rcdb.com/18734.htm,31.0,16.0,4.0,Kids
+universal,universal studios beijing,flight of the hippogriff / 鹰马飞行,40.0,29.1,1017.1,0,https://rcdb.com/17463.htm,37.0,21.0,3.0,Kids
+universal,universal studios beijing,jurassic flyers / 飞越侏罗纪,50.5,19.0,1958.7,0,https://rcdb.com/17288.htm,50.0,27.0,2.0,Family
+united parks,busch gardens tampa,sheikra,200.0,70.0,3188.0,1,https://rcdb.com/2662.htm,13.0,90.0,4.0,Thrill
+united parks,busch gardens tampa,montu,150.0,60.0,3983.0,7,https://rcdb.com/87.htm,17.0,174.0,1.0,Thrill
+united parks,busch gardens tampa,phoenix rising,80.0,44.0,1831.0,0,https://rcdb.com/21221.htm,12.0,37.0,7.0,Family
+united parks,busch gardens tampa,iron gwazi,206.0,76.0,4075.0,2,https://rcdb.com/16985.htm,21.0,114.0,3.0,Thrill
+united parks,busch gardens tampa,cheetah hunt,102.0,60.0,4429.0,1,https://rcdb.com/9456.htm,43.0,77.0,5.0,Thrill
+united parks,busch gardens tampa,tigris,150.0,62.0,863.0,1,https://rcdb.com/16607.htm,12.0,63.0,6.0,Thrill
+united parks,busch gardens tampa,kumba,143.0,60.0,3978.0,7,https://rcdb.com/94.htm,9.0,172.0,2.0,Thrill
+united parks,busch gardens tampa,cobra's curse,70.0,40.0,2100.0,0,https://rcdb.com/12781.htm,35.0,36.0,8.0,Family
+united parks,busch gardens williamsburg,verbolten,88.0,53.0,2835.0,0,https://rcdb.com/9463.htm,11.0,47.0,7.0,Family
+united parks,busch gardens williamsburg,alpengeist,195.0,67.0,3828.0,6,https://rcdb.com/277.htm,5.0,168.0,1.0,Thrill
+united parks,busch gardens williamsburg,darkoaster,37.0,36.0,1384.5,0,https://rcdb.com/7706.htm,15.0,24.0,9.0,Kids
+united parks,busch gardens williamsburg,pantheon,178.0,73.0,3328.0,2,https://rcdb.com/16812.htm,1.0,102.0,3.0,Thrill
+united parks,busch gardens williamsburg,apollo's chariot,170.0,73.0,4882.0,0,https://rcdb.com/531.htm,5.0,81.0,5.0,Thrill
+united parks,busch gardens williamsburg,big bad wolf: the wolf’s revenge,,40.0,2583.0,0,https://rcdb.com/22111.htm,27.0,,,Thrill
+united parks,busch gardens williamsburg,invadr,51.0,48.0,2118.0,0,https://rcdb.com/8027.htm,6.0,34.0,8.0,Family
+united parks,busch gardens williamsburg,griffon,205.0,71.0,3108.0,2,https://rcdb.com/3631.htm,7.0,106.0,2.0,Thrill
+united parks,busch gardens williamsburg,loch ness monster,130.0,60.0,3240.0,2,https://rcdb.com/110.htm,9.0,90.0,4.0,Thrill
+united parks,busch gardens williamsburg,tempesto,150.0,62.0,863.0,1,https://rcdb.com/12277.htm,6.0,63.0,6.0,Thrill
+united parks,busch gardens williamsburg,grover's alpine express,24.0,,600.0,0,https://rcdb.com/4282.htm,0.0,,,Thrill
+united parks,seaworld orlando,penguin trek,65.0,43.0,3020.0,0,https://rcdb.com/21034.htm,25.0,42.0,5.0,Family
+united parks,seaworld orlando,manta,140.0,56.0,3359.0,4,https://rcdb.com/4190.htm,14.0,122.0,2.0,Thrill
+united parks,seaworld orlando,journey to atlantis,100.0,40.0,1800.0,0,https://rcdb.com/1904.htm,14.0,40.0,7.0,Family
+united parks,seaworld orlando,pipeline: the surf coaster,110.0,60.0,2950.0,1,https://rcdb.com/20042.htm,22.0,69.0,4.0,Thrill
+united parks,seaworld orlando,mako,200.0,73.0,4760.0,0,https://rcdb.com/12758.htm,10.0,86.0,3.0,Thrill
+united parks,seaworld orlando,kraken,149.0,65.0,4177.0,7,https://rcdb.com/581.htm,7.0,176.0,1.0,Thrill
+united parks,seaworld orlando,ice breaker,93.0,52.0,1900.0,0,https://rcdb.com/17420.htm,14.0,42.0,5.0,Family
+united parks,seaworld san antonio,texas stingray,96.0,55.0,3379.0,0,https://rcdb.com/17278.htm,4.0,53.0,3.0,Thrill
+united parks,seaworld san antonio,steel eel,150.0,65.0,3700.0,0,https://rcdb.com/532.htm,4.0,68.0,2.0,Thrill
+united parks,seaworld san antonio,journey to atlantis,100.0,,,0,https://rcdb.com/3635.htm,8.0,,,Thrill
+united parks,seaworld san antonio,wave breaker: the rescue coaster,61.0,44.0,2600.0,0,https://rcdb.com/14302.htm,11.0,38.0,5.0,Family
+united parks,seaworld san antonio,great white,108.0,50.0,2562.0,5,https://rcdb.com/278.htm,4.0,124.0,1.0,Thrill
+united parks,seaworld san antonio,beach rescue racer,,,1300.0,0,https://rcdb.com/21785.htm,3.0,,,Thrill
+united parks,seaworld san antonio,barracuda strike,90.0,44.0,1800.0,0,https://rcdb.com/22921.htm,,39.0,4.0,Family
+united parks,seaworld san diego,emperor,153.0,60.0,2411.0,3,https://rcdb.com/17030.htm,10.0,104.0,1.0,Thrill
+united parks,seaworld san diego,arctic rescue,30.0,40.0,2800.0,0,https://rcdb.com/20275.htm,14.0,33.0,3.0,Family
+united parks,seaworld san diego,journey to atlantis,95.0,42.0,,0,https://rcdb.com/2079.htm,17.0,,,Thrill
+united parks,seaworld san diego,manta,30.0,43.0,2800.0,0,https://rcdb.com/9819.htm,17.0,33.0,3.0,Family
+united parks,seaworld san diego,electric eel,150.0,62.0,863.0,1,https://rcdb.com/14683.htm,14.0,63.0,2.0,Thrill
+herschend,adventureland,phoenix,50.9,37.3,1410.8,0,https://rcdb.com/16885.htm,11.0,27.0,5.0,Family
+herschend,adventureland,tornado,93.0,58.0,2840.0,0,https://rcdb.com/212.htm,0.0,49.0,2.0,Family
+herschend,adventureland,flying viking,50.0,26.1,1312.3,0,https://rcdb.com/20336.htm,12.0,24.0,6.0,Kids
+herschend,adventureland,monster,133.0,65.0,2500.0,5,https://rcdb.com/12896.htm,23.0,131.0,1.0,Thrill
+herschend,adventureland,dragon slayer,112.0,34.0,770.0,0,https://rcdb.com/18398.htm,10.0,34.0,4.0,Family
+herschend,adventureland,outlaw,67.0,48.0,2800.0,0,https://rcdb.com/214.htm,7.0,42.0,3.0,Family
+herschend,adventureland,underground,15.0,,911.0,0,https://rcdb.com/215.htm,23.0,,,Thrill
+herschend,dollywood,firechaser express,78.0,34.5,2427.0,0,https://rcdb.com/6691.htm,25.0,39.0,7.0,Family
+herschend,dollywood,lightning rod,80.0,73.0,3800.0,0,https://rcdb.com/13369.htm,28.0,56.0,4.0,Thrill
+herschend,dollywood,tennessee tornado,163.0,63.0,2682.0,3,https://rcdb.com/534.htm,10.0,108.0,2.0,Thrill
+herschend,dollywood,dragonflier,,,1486.2,0,https://rcdb.com/16124.htm,22.0,,,Thrill
+herschend,dollywood,big bear mountain,66.0,48.0,3990.0,0,https://rcdb.com/20328.htm,23.0,49.0,6.0,Family
+herschend,dollywood,mystery mine,85.3,43.5,1804.5,2,https://rcdb.com/3609.htm,19.0,68.0,3.0,Thrill
+herschend,dollywood,thunderhead,100.4,53.7,3230.0,0,https://rcdb.com/2451.htm,12.0,52.0,5.0,Thrill
+herschend,dollywood,blazing fury,22.0,22.0,1520.0,0,https://rcdb.com/501.htm,10.0,19.0,8.0,Kids
+herschend,dollywood,wild eagle,210.0,61.0,3127.0,4,https://rcdb.com/10148.htm,10.0,135.0,1.0,Thrill
+herschend,kennywood,phantom's revenge,160.0,85.0,3200.0,0,https://rcdb.com/123.htm,18.0,70.0,3.0,Thrill
+herschend,kennywood,exterminator,42.7,29.1,1377.9,0,https://rcdb.com/538.htm,33.0,24.0,7.0,Kids
+herschend,kennywood,jack rabbit,40.0,45.0,2132.0,0,https://rcdb.com/120.htm,16.0,31.0,6.0,Family
+herschend,kennywood,racer,72.5,40.0,4500.0,0,https://rcdb.com/121.htm,15.0,52.0,4.0,Thrill
+herschend,kennywood,thunderbolt,70.0,55.0,3250.0,0,https://rcdb.com/122.htm,11.0,47.0,5.0,Family
+herschend,kennywood,steel curtain,220.0,75.0,4000.0,8,https://rcdb.com/16479.htm,24.0,206.0,1.0,Thrill
+herschend,kennywood,sky rocket,95.0,50.0,2100.0,3,https://rcdb.com/8612.htm,13.0,88.0,2.0,Thrill
+herschend,kentucky kingdom,hollyhock and roll,27.9,21.7,679.1,0,https://rcdb.com/172.htm,,14.0,4.0,Kids
+herschend,kentucky kingdom,lightning run,,55.0,2500.0,0,https://rcdb.com/7982.htm,,,,Thrill
+herschend,kentucky kingdom,kentucky flyer,47.0,35.0,1288.0,0,https://rcdb.com/16676.htm,,25.0,3.0,Family
+herschend,kentucky kingdom,wind chaser,100.0,52.0,2744.0,2,https://rcdb.com/12941.htm,,79.0,1.0,Thrill
+herschend,kentucky kingdom,woodland run,90.0,53.0,2850.0,0,https://rcdb.com/173.htm,,48.0,2.0,Family
+herschend,lake compounce,phobia phear coaster,150.0,62.0,863.0,1,https://rcdb.com/12897.htm,9.0,63.0,3.0,Thrill
+herschend,lake compounce,boulder dash,110.0,60.0,4725.0,0,https://rcdb.com/602.htm,16.0,66.0,2.0,Thrill
+herschend,lake compounce,zoomerang,116.5,47.0,935.0,3,https://rcdb.com/432.htm,9.0,84.0,1.0,Thrill
+herschend,lake compounce,wildcat,85.0,48.0,2746.0,0,https://rcdb.com/420.htm,18.0,45.0,4.0,Family
+herschend,silver dollar city,powder keg: a blast in the wilderness,98.0,64.0,3506.0,0,https://rcdb.com/1903.htm,27.0,56.0,4.0,Thrill
+herschend,silver dollar city,grand exposition coaster,13.0,20.0,262.0,0,https://rcdb.com/3401.htm,10.0,8.0,6.0,Kids
+herschend,silver dollar city,time traveler,100.0,50.3,3020.0,3,https://rcdb.com/15168.htm,25.0,95.0,3.0,Thrill
+herschend,silver dollar city,outlaw run,107.0,68.0,2937.0,3,https://rcdb.com/10582.htm,8.0,100.0,2.0,Thrill
+herschend,silver dollar city,fire in the hole,,26.0,1512.0,0,https://rcdb.com/21093.htm,13.0,,,Thrill
+herschend,silver dollar city,wildfire,120.0,66.0,3073.0,5,https://rcdb.com/720.htm,7.0,133.0,1.0,Thrill
+herschend,silver dollar city,thunderation,81.0,48.0,3022.0,0,https://rcdb.com/220.htm,9.0,46.0,5.0,Family
+parques reunidos,bobbejaanland,naga bay,55.8,34.2,1410.8,0,https://rcdb.com/9331.htm,,27.0,4.0,Family
+parques reunidos,bobbejaanland,oki doki,53.5,36.0,1430.4,0,https://rcdb.com/2228.htm,,27.0,4.0,Family
+parques reunidos,bobbejaanland,typhoon,84.3,49.7,2198.2,4,https://rcdb.com/2229.htm,,101.0,1.0,Thrill
+parques reunidos,bobbejaanland,speedy bob,45.9,28.0,1213.9,0,https://rcdb.com/2557.htm,,23.0,6.0,Kids
+parques reunidos,bobbejaanland,bob express,32.8,22.4,1709.3,0,https://rcdb.com/919.htm,,22.0,7.0,Kids
+parques reunidos,bobbejaanland,fury,141.1,66.2,1968.5,2,https://rcdb.com/16110.htm,,85.0,2.0,Thrill
+parques reunidos,bobbejaanland,dreamcatcher,82.0,,1968.5,0,https://rcdb.com/915.htm,,,,Thrill
+parques reunidos,bobbejaanland,revolution,60.8,31.1,2362.2,0,https://rcdb.com/917.htm,,34.0,3.0,Family
+parques reunidos,moviepark germany,bandit,91.2,49.7,3605.7,0,https://rcdb.com/967.htm,,52.0,3.0,Thrill
+parques reunidos,moviepark germany,backyardigans: mission to mars,27.9,21.7,679.1,0,https://rcdb.com/968.htm,,14.0,7.0,Kids
+parques reunidos,moviepark germany,studio tour,39.4,37.3,1745.4,0,https://rcdb.com/18666.htm,,27.0,4.0,Family
+parques reunidos,moviepark germany,ghost chasers,45.9,28.0,1213.9,0,https://rcdb.com/966.htm,,23.0,5.0,Kids
+parques reunidos,moviepark germany,iron claw,109.3,49.7,2260.5,5,https://rcdb.com/969.htm,,122.0,1.0,Thrill
+parques reunidos,moviepark germany,van helsing's factory,26.3,22.4,1312.3,0,https://rcdb.com/9539.htm,,18.0,6.0,Kids
+parques reunidos,moviepark germany,star trek: operation enterprise,131.2336,55.9,2362.2,3,https://rcdb.com/13796.htm,,98.0,2.0,Thrill
+parques reunidos,moviepark germany,jimmy neutron's atomic flyer,42.7,,967.8,0,https://rcdb.com/3675.htm,,,,Thrill
+parques reunidos,mirabilandia,rexplorer,,21.8,820.3,0,https://rcdb.com/768.htm,,,,Thrill
+parques reunidos,mirabilandia,ispeed,180.4,68.4,3215.2,2,https://rcdb.com/4147.htm,,101.0,2.0,Thrill
+parques reunidos,mirabilandia,paw patrol to the rescue,19.7,21.3,442.9,0,https://rcdb.com/2981.htm,,11.0,5.0,Kids
+parques reunidos,mirabilandia,katun,164.0,64.6,3937.0,6,https://rcdb.com/764.htm,,162.0,1.0,Thrill
+parques reunidos,mirabilandia,gold digger,47.6,,1183.4,0,https://rcdb.com/765.htm,,,,Thrill
+parques reunidos,mirabilandia,divertical,164.0,59.0,2516.4,0,https://rcdb.com/10393.htm,,61.0,3.0,Thrill
+parques reunidos,mirabilandia,desmo race,72.2,49.7,1722.4,0,https://rcdb.com/15717.htm,,36.0,4.0,Family
+parques reunidos,parque de atracciones,paw patrol: patrulla canina,13.0,,262.5,0,https://rcdb.com/3848.htm,0.0,,,Thrill
+parques reunidos,parque de atracciones,padrinos voladores,20.3,7.8,360.9,0,https://rcdb.com/3922.htm,0.0,8.0,5.0,Kids
+parques reunidos,parque de atracciones,tarántula,83.7,42.3,2066.9,0,https://rcdb.com/2924.htm,9.0,39.0,3.0,Family
+parques reunidos,parque de atracciones,abismo,160.8,65.2,1345.1,2,https://rcdb.com/3185.htm,12.0,84.0,2.0,Thrill
+parques reunidos,parque de atracciones,tornado,98.0,49.7,2624.7,3,https://rcdb.com/1101.htm,3.0,92.0,1.0,Thrill
+parques reunidos,parque de atracciones,tnt tren de la mina,55.8,35.0,1476.4,0,https://rcdb.com/10402.htm,10.0,28.0,4.0,Family
+parques reunidos,parque warner madrid,coaster express,120.0,59.0,4574.0,0,https://rcdb.com/1368.htm,11.0,66.0,5.0,Thrill
+parques reunidos,parque warner madrid,tom y jerry,26.3,22.4,1181.1,0,https://rcdb.com/1367.htm,9.0,18.0,7.0,Kids
+parques reunidos,parque warner madrid,shadows of arkham,105.0,49.7,2700.2,5,https://rcdb.com/1365.htm,,124.0,2.0,Thrill
+parques reunidos,parque warner madrid,"correcaminos bip, bip",52.5,37.3,1574.8,0,https://rcdb.com/3520.htm,,28.0,6.0,Family
+parques reunidos,parque warner madrid,superman / la atracción de acero,164.1,62.1,3608.9,7,https://rcdb.com/1366.htm,11.0,174.0,1.0,Thrill
+parques reunidos,parque warner madrid,stunt fall,177.2,61.5,1204.1,3,https://rcdb.com/1369.htm,4.0,101.0,4.0,Thrill
+parques reunidos,parque warner madrid,batman gotham city escape,147.6,64.0,3313.6,4,https://rcdb.com/20019.htm,13.0,124.0,2.0,Thrill
+parques reunidos,tusenfryd,speed monster,101.8,55.9,2263.8,3,https://rcdb.com/3245.htm,,92.0,1.0,Thrill
+parques reunidos,tusenfryd,hurihuri,18.0,15.5,403.5,0,https://rcdb.com/20000.htm,,9.0,6.0,Kids
+parques reunidos,tusenfryd,storm - the dragon legend,109.9,59.0,1181.1,3,https://rcdb.com/20266.htm,,87.0,2.0,Thrill
+parques reunidos,tusenfryd,thundercoaster,,57.8,3116.8,0,https://rcdb.com/1042.htm,,,,Thrill
+parques reunidos,tusenfryd,supersplash,95.2,46.6,1049.8,0,https://rcdb.com/1900.htm,,35.0,4.0,Family
+parques reunidos,tusenfryd,western-expressen,42.7,28.5,1099.1,0,https://rcdb.com/10448.htm,,22.0,5.0,Kids
+parques reunidos,tusenfryd,loopen,68.9,43.5,1509.2,2,https://rcdb.com/1043.htm,,63.0,3.0,Thrill
+walibi,walibi belgium,loup-garou,91.8,49.7,3395.7,0,https://rcdb.com/1029.htm,23.0,51.0,5.0,Thrill
+walibi,walibi belgium,fun pilot,31.2,24.9,623.3,0,https://rcdb.com/15206.htm,8.0,15.0,10.0,Kids
+walibi,walibi belgium,pulsar,147.7,62.8,711.9,0,https://rcdb.com/12409.htm,16.0,47.0,6.0,Family
+walibi,walibi belgium,kondaa,164.0,70.2,3937.0,0,https://rcdb.com/15207.htm,21.0,73.0,3.0,Thrill
+walibi,walibi belgium,calamity mine,45.9,30.1,2575.5,0,https://rcdb.com/924.htm,13.0,32.0,9.0,Family
+walibi,walibi belgium,tiki-waka,68.9,34.2,1850.4,0,https://rcdb.com/15205.htm,30.0,33.0,8.0,Family
+walibi,walibi belgium,cobra,116.5,47.0,935.0,3,https://rcdb.com/1028.htm,13.0,84.0,2.0,Thrill
+walibi,walibi belgium,turbine,137.8,53.0,722.0,1,https://rcdb.com/921.htm,12.0,58.0,4.0,Thrill
+walibi,walibi belgium,mecalodon,49.2,40.4,3034.8,0,https://rcdb.com/21793.htm,20.0,38.0,7.0,Family
+walibi,walibi belgium,vampire,109.3,49.7,2260.5,5,https://rcdb.com/922.htm,19.0,122.0,1.0,Thrill
+walibi,walibi holland,lost gravity,105.0,54.1,2231.0,2,https://rcdb.com/12315.htm,25.0,77.0,6.0,Thrill
+walibi,walibi holland,condor,101.7,49.7,2171.9,5,https://rcdb.com/770.htm,20.0,120.0,2.0,Thrill
+walibi,walibi holland,eat my dust,38.7,24.9,656.2,0,https://rcdb.com/20546.htm,6.0,17.0,8.0,Kids
+walibi,walibi holland,yoy,95.1,51.0,2149.0,6,https://rcdb.com/20669.htm,20.0,134.0,1.0,Thrill
+walibi,walibi holland,drako,19.7,19.9,652.9,0,https://rcdb.com/774.htm,6.0,12.0,9.0,Kids
+walibi,walibi holland,goliath,153.7,65.9,3982.9,0,https://rcdb.com/1565.htm,19.0,70.0,7.0,Thrill
+walibi,walibi holland,untamed,119.8,57.2,3559.7,4,https://rcdb.com/16047.htm,27.0,119.0,3.0,Thrill
+walibi,walibi holland,xpress: platform 13,84.7,55.9,3267.7,3,https://rcdb.com/769.htm,21.0,95.0,4.0,Thrill
+walibi,walibi holland,speed of sound,116.5,47.0,935.0,3,https://rcdb.com/773.htm,17.0,84.0,5.0,Thrill
+walibi,walibi rhône-alpes,generator,116.5,47.0,935.0,3,https://rcdb.com/943.htm,17.0,84.0,2.0,Thrill
+walibi,walibi rhône-alpes,mystic,101.7,52.8,1476.4,3,https://rcdb.com/15842.htm,23.0,86.0,1.0,Thrill
+walibi,walibi rhône-alpes,mahuka,59.1,41.6,1968.5,3,https://rcdb.com/19716.htm,,78.0,3.0,Thrill
+walibi,walibi rhône-alpes,coccinelle,26.3,22.4,1181.1,0,https://rcdb.com/946.htm,,18.0,5.0,Kids
+walibi,walibi rhône-alpes,timber,55.8,40.0,1464.0,0,https://rcdb.com/12954.htm,23.0,29.0,4.0,Family
+other,efteling,vliegende hollander,73.8,43.5,1377.9,0,https://rcdb.com/3291.htm,28.0,33.0,5.0,Family
+other,efteling,baron 1898,98.4,55.9,1643.7,2,https://rcdb.com/12083.htm,25.0,72.0,2.0,Thrill
+other,efteling,joris en de draak,72.4,46.6,2585.0,0,https://rcdb.com/4526.htm,27.0,41.0,3.0,Family
+other,efteling,python,95.0,46.6,2460.6,4,https://rcdb.com/897.htm,18.0,105.0,1.0,Thrill
+other,efteling,max + moritz,19.7,22.4,984.3,0,https://rcdb.com/16697.htm,12.0,15.0,6.0,Kids
+other,efteling,vogel rok,65.6,40.4,2460.6,0,https://rcdb.com/900.htm,13.0,38.0,4.0,Family
+other,nagashima spa land,corkscrew / コークスクリュー,,,1279.5,2,https://rcdb.com/15561.htm,,,,Thrill
+other,nagashima spa land,wild mouse / ワイルドマウス,45.9,28.0,1213.9,0,https://rcdb.com/2558.htm,,23.0,7.0,Kids
+other,nagashima spa land,arashi / 嵐,120.0,38.0,1019.0,0,https://rcdb.com/14052.htm,,38.0,6.0,Family
+other,nagashima spa land,children coaster / チルドレンコースター,19.7,19.9,652.9,0,https://rcdb.com/1181.htm,,12.0,9.0,Kids
+other,nagashima spa land,steel dragon 2000 / スチールドラゴン2000,318.2,95.0,8133.2,0,https://rcdb.com/1173.htm,,137.0,1.0,Thrill
+other,nagashima spa land,shuttle loop / シャトルループ,137.8,57.0,863.0,1,https://rcdb.com/1177.htm,,60.0,4.0,Thrill
+other,nagashima spa land,acrobat / アクロバット,141.1,55.9,3349.8,4,https://rcdb.com/12272.htm,,122.0,3.0,Thrill
+other,nagashima spa land,hakugei / 白鯨,180.4,66.5,5019.7,3,https://rcdb.com/15515.htm,,128.0,2.0,Thrill
+other,nagashima spa land,peter rabbit coaster / ピーターラビットコースター,14.1,15.5,502.0,0,https://rcdb.com/10873.htm,,9.0,10.0,Kids
+other,nagashima spa land,looping star / ルーピングスター,80.4,47.8,1942.3,1,https://rcdb.com/1178.htm,,54.0,5.0,Thrill
+other,nagashima spa land,wild mouse / ワイルドマウス,45.9,28.0,1213.9,0,https://rcdb.com/1176.htm,,23.0,7.0,Kids
+other,europa park,schweizer bobbahn,62.3,31.1,1597.8,0,https://rcdb.com/974.htm,19.0,29.0,9.0,Family
+other,europa park,poseidon,75.5,43.5,2742.8,0,https://rcdb.com/1891.htm,10.0,42.0,7.0,Family
+other,europa park,wodan timbur coaster,131.2,62.1,3444.9,0,https://rcdb.com/10018.htm,25.0,62.0,4.0,Thrill
+other,europa park,atlantica supersplash,98.4,49.7,1279.5,0,https://rcdb.com/2928.htm,11.0,38.0,8.0,Family
+other,europa park,euro mir,92.0,49.7,3215.3,0,https://rcdb.com/972.htm,15.0,50.0,5.0,Family
+other,europa park,matterhorn blitz,52.5,35.0,1256.6,0,https://rcdb.com/971.htm,15.0,26.0,10.0,Family
+other,europa park,arthur,44.3,19.3,1656.8,0,https://rcdb.com/11114.htm,25.0,24.0,12.0,Kids
+other,europa park,eurosat - cancan coaster,83.7,37.3,3024.8,0,https://rcdb.com/973.htm,26.0,44.0,6.0,Family
+other,europa park,blue fire megacoaster,124.7,62.1,3464.5,4,https://rcdb.com/4074.htm,20.0,120.0,2.0,Thrill
+other,europa park,pegasus,42.7,40.4,1312.3,0,https://rcdb.com/3403.htm,1.0,25.0,11.0,Family
+other,europa park,silver star,239.5,78.9,5315.0,0,https://rcdb.com/1414.htm,20.0,99.0,3.0,Thrill
+other,europa park,voltron,106.6,62.1,4544.0,7,https://rcdb.com/7121.htm,33.0,169.0,1.0,Thrill
+other,europa park,ba-a-a-express,9.8,,219.8,0,https://rcdb.com/13654.htm,6.0,,,Thrill
+other,port adventura,dragon khan,148.0,65.0,4165.0,8,https://rcdb.com/760.htm,19.0,190.0,1.0,Thrill
+other,port adventura,shambhala,249.3,83.3,5131.3,0,https://rcdb.com/10239.htm,25.0,101.0,2.0,Thrill
+other,port adventura,tami-tami,27.9,21.7,679.1,0,https://rcdb.com/763.htm,8.0,14.0,5.0,Kids
+other,port adventura,furius baco,,83.9,2788.8,1,https://rcdb.com/3430.htm,29.0,,,Thrill
+other,port adventura,diablo - tren de la mina,54.0,,3306.0,0,https://rcdb.com/762.htm,0.0,,,Thrill
+other,port adventura,uncharted: the enigma of penitence,39.4,,2296.6,0,https://rcdb.com/20465.htm,1.0,,,Thrill
+other,port adventura,stampida,84.0,46.0,3127.0,0,https://rcdb.com/759.htm,39.0,47.0,3.0,Family
+other,port adventura,tomahawk,44.0,30.0,1444.0,0,https://rcdb.com/761.htm,14.0,24.0,4.0,Kids
+other,ferrari land,red force,367.3,111.8,2887.2,0,https://rcdb.com/10698.htm,24.0,115.0,1.0,Thrill
+other,ferrari land,junior red force,,28.0,,0,https://rcdb.com/15992.htm,3.0,,,Thrill
+other,phantasialand,taron,98.4,72.7,4330.8,0,https://rcdb.com/12723.htm,22.0,63.0,3.0,Thrill
+other,phantasialand,winjas,57.1,37.3,1345.1,0,https://rcdb.com/1235.htm,13.0,28.0,7.0,Family
+other,phantasialand,colorado adventure,85.3,31.1,4199.5,0,https://rcdb.com/978.htm,10.0,51.0,4.0,Thrill
+other,phantasialand,f.l.y.,64.0,48.5,4048.6,2,https://rcdb.com/15201.htm,18.0,79.0,2.0,Thrill
+other,phantasialand,raik,82.0,38.5,685.7,0,https://rcdb.com/13689.htm,11.0,29.0,6.0,Family
+other,phantasialand,crazy bats,38.4,28.9,3855.0,0,https://rcdb.com/980.htm,15.0,39.0,5.0,Family
+other,phantasialand,black mamba,85.3,49.7,2519.7,4,https://rcdb.com/3117.htm,14.0,104.0,1.0,Thrill
+other,nickelodeon universe,sandy’s blasting bronco,85.3,47.8,1607.6,4,https://rcdb.com/16793.htm,,97.0,2.0,Thrill
+other,nickelodeon universe,shredder,85.0,36.0,2247.0,0,https://rcdb.com/15600.htm,,39.0,3.0,Family
+other,nickelodeon universe,tmnt shellraiser,141.0,62.1,3280.8,7,https://rcdb.com/15594.htm,,167.0,1.0,Thrill
+other,nickelodeon universe,nickelodeon slime streak,70.0,37.0,1263.0,0,https://rcdb.com/16775.htm,,30.0,4.0,Family
+other,fuji-q highland,zokkon / ぞっこん,,45.4,3937.0,0,https://rcdb.com/16186.htm,19.0,,,Thrill
+other,fuji-q highland,nia and animal coaster / ニアとアニマルコースター,,11.2,262.5,0,https://rcdb.com/1503.htm,,,,Thrill
+other,fuji-q highland,fujiyama / フジヤマ,259.2,80.8,6708.7,0,https://rcdb.com/1190.htm,19.0,113.0,3.0,Thrill
+other,fuji-q highland,takabisha / 高飛車,141.0,62.1,3280.8,7,https://rcdb.com/9795.htm,19.0,167.0,1.0,Thrill
+other,fuji-q highland,eejanaika / ええじゃないか,249.3,78.3,3782.8,3,https://rcdb.com/3254.htm,19.0,136.0,2.0,Thrill
+other,fuji-q highland,voyage dans le ciel / リサとガスパールのそらたびにっき,75.5,31.1,1574.8,0,https://rcdb.com/1193.htm,0.0,32.0,4.0,Family
+other,energylandia,formuła,81.4,49.2,1837.3,3,https://rcdb.com/12362.htm,,83.0,5.0,Thrill
+other,energylandia,happy loops,23.0,18.6,370.8,0,https://rcdb.com/15003.htm,,11.0,15.0,Kids
+other,energylandia,light explorers,79.4,37.3,780.8,0,https://rcdb.com/18210.htm,,29.0,9.0,Family
+other,energylandia,abyssus,126.3,62.1,4317.6,4,https://rcdb.com/17412.htm,,126.0,2.0,Thrill
+other,energylandia,mars,19.7,,393.7,0,https://rcdb.com/12572.htm,,,,Thrill
+other,energylandia,frida,42.7,27.7,810.4,0,https://rcdb.com/17207.htm,,19.0,12.0,Kids
+other,energylandia,speed,164.0,62.8,2253.9,0,https://rcdb.com/14352.htm,,60.0,6.0,Thrill
+other,energylandia,roller coaster mayan,109.3,49.7,2260.5,5,https://rcdb.com/12263.htm,,122.0,3.0,Thrill
+other,energylandia,dragon roller coaster,63.3,47.0,1486.2,0,https://rcdb.com/12264.htm,,32.0,8.0,Family
+other,energylandia,choco chip creek,54.1,34.2,3937.0,0,https://rcdb.com/17766.htm,,44.0,7.0,Family
+other,energylandia,zadra,206.0,75.2,4317.6,3,https://rcdb.com/16184.htm,2.0,130.0,1.0,Thrill
+other,energylandia,hyperion,252.6,88.2,4757.2,1,https://rcdb.com/14462.htm,2.0,115.0,4.0,Thrill
+other,energylandia,viking roller coaster,36.1,26.7,1017.1,0,https://rcdb.com/12262.htm,,19.0,12.0,Kids
+other,energylandia,boomerang,75.5,37.3,672.6,0,https://rcdb.com/14192.htm,,27.0,10.0,Family
+other,energylandia,energuś,42.7,28.5,1099.1,0,https://rcdb.com/12070.htm,,22.0,11.0,Kids
+other,energylandia,honey harbour,38.4,28.6,833.3,0,https://rcdb.com/19656.htm,,19.0,12.0,Kids
+other,liseberg,stampbanan,10.8,12.3,176.5,0,https://rcdb.com/10779.htm,9.0,6.0,7.0,Kids
+other,liseberg,lisebergbanan,147.7,49.7,4397.0,0,https://rcdb.com/1061.htm,9.0,69.0,3.0,Thrill
+other,liseberg,helix,134.5,62.1,4530.8,7,https://rcdb.com/11048.htm,16.0,175.0,1.0,Thrill
+other,liseberg,rabalder,29.5,24.2,728.3,0,https://rcdb.com/4354.htm,10.0,16.0,6.0,Kids
+other,liseberg,valkyria,154.2,65.2,2296.6,3,https://rcdb.com/14301.htm,14.0,104.0,2.0,Thrill
+other,liseberg,luna,109.9,42.3,794.0,0,https://rcdb.com/19785.htm,15.0,36.0,5.0,Family
+other,liseberg,balder,118.1,55.9,3510.5,0,https://rcdb.com/1562.htm,14.0,58.0,4.0,Thrill
+other,hersheypark,great bear,90.0,58.0,2800.0,4,https://rcdb.com/468.htm,37.0,108.0,3.0,Thrill
+other,hersheypark,fahrenheit,121.0,58.0,2700.0,6,https://rcdb.com/4049.htm,44.0,144.0,1.0,Thrill
+other,hersheypark,storm runner,150.0,72.0,2600.0,3,https://rcdb.com/2498.htm,31.0,107.0,4.0,Thrill
+other,hersheypark,sooperdooperlooper,57.0,45.0,2614.0,1,https://rcdb.com/108.htm,28.0,53.0,8.0,Thrill
+other,hersheypark,jolly rancher remix,116.5,47.0,935.0,3,https://rcdb.com/109.htm,32.0,84.0,6.0,Thrill
+other,hersheypark,wild mouse,45.9,28.0,1213.9,0,https://rcdb.com/539.htm,15.0,23.0,12.0,Kids
+other,hersheypark,comet,84.0,50.0,3360.0,0,https://rcdb.com/106.htm,36.0,49.0,10.0,Family
+other,hersheypark,lightning racer,91.6,51.1,3393.0,0,https://rcdb.com/597.htm,14.0,51.0,9.0,Thrill
+other,hersheypark,candymonium,210.0,76.0,4636.0,0,https://rcdb.com/16682.htm,47.0,88.0,5.0,Thrill
+other,hersheypark,laff trakk,51.0,40.0,1400.0,0,https://rcdb.com/12270.htm,45.0,28.0,11.0,Family
+other,hersheypark,skyrush,200.0,75.0,3600.0,0,https://rcdb.com/10089.htm,29.0,79.0,7.0,Thrill
+other,hersheypark,wildcat's revenge,140.0,62.0,3510.0,4,https://rcdb.com/20462.htm,33.0,124.0,2.0,Thrill
+other,holiday world,good gravy!,77.0,37.0,721.8,0,https://rcdb.com/21070.htm,,28.0,5.0,Family
+other,holiday world,howler,13.0,,262.5,0,https://rcdb.com/555.htm,,,,Thrill
+other,holiday world,voyage,159.0,67.0,6442.0,0,https://rcdb.com/3231.htm,,88.0,2.0,Thrill
+other,holiday world,raven,80.0,48.0,2800.0,0,https://rcdb.com/136.htm,,44.0,4.0,Family
+other,holiday world,thunderbird,140.0,60.0,3035.0,4,https://rcdb.com/12260.htm,,120.0,1.0,Thrill
+other,holiday world,legend,99.0,59.0,4042.0,0,https://rcdb.com/582.htm,,59.0,3.0,Thrill
+other,knoebels,black diamond,35.0,,,0,https://rcdb.com/4454.htm,10.0,,,Thrill
+other,knoebels,impulse,98.0,55.0,1975.0,4,https://rcdb.com/12000.htm,17.0,104.0,1.0,Thrill
+other,knoebels,twister,101.6,51.5,3900.0,0,https://rcdb.com/546.htm,12.0,57.0,2.0,Thrill
+other,knoebels,flying turns,50.0,24.0,1300.0,0,https://rcdb.com/3458.htm,27.0,23.0,4.0,Kids
+other,knoebels,phoenix,78.0,45.0,3200.0,0,https://rcdb.com/143.htm,14.0,46.0,3.0,Family
+other,pleasure beach blackpool,blue flyer,,,1099.1,0,https://rcdb.com/797.htm,6.0,,,Thrill
+other,pleasure beach blackpool,avalanche,,,1490.0,0,https://rcdb.com/789.htm,20.0,,,Thrill
+other,pleasure beach blackpool,nickelodeon streak,61.0,35.0,2293.0,0,https://rcdb.com/793.htm,17.0,34.0,6.0,Family
+other,pleasure beach blackpool,grand national,62.0,40.0,3302.0,0,https://rcdb.com/792.htm,13.0,42.0,4.0,Family
+other,pleasure beach blackpool,big one,213.0,74.0,5497.0,0,https://rcdb.com/775.htm,27.0,94.0,2.0,Thrill
+other,pleasure beach blackpool,icon,88.5,52.8,3750.0,1,https://rcdb.com/14312.htm,22.0,68.0,3.0,Thrill
+other,pleasure beach blackpool,revolution,56.0,45.0,635.0,1,https://rcdb.com/788.htm,12.0,39.0,5.0,Family
+other,pleasure beach blackpool,infusion,109.3,49.7,2260.5,5,https://rcdb.com/3672.htm,16.0,122.0,1.0,Thrill
+other,pleasure beach blackpool,big dipper,60.0,,3300.0,0,https://rcdb.com/790.htm,20.0,,,Thrill
+other,warner bros. world abu dhabi,fast and furry-ous,59.0,29.8,1292.6,0,https://rcdb.com/15670.htm,,26.0,2.0,Family
+other,warner bros. world abu dhabi,tom and jerry swiss cheese spin,58.3,30.4,1512.4,0,https://rcdb.com/15017.htm,,28.0,1.0,Family
+other,linnanmäki,tulireki,54.2,36.0,1102.3,0,https://rcdb.com/2470.htm,,25.0,6.0,Family
+other,linnanmäki,pikajuna,23.0,23.0,961.3,0,https://rcdb.com/1074.htm,,16.0,7.0,Kids
+other,linnanmäki,linnunrata extra,23.0,24.9,984.3,0,https://rcdb.com/1072.htm,,16.0,7.0,Kids
+other,linnanmäki,taiga,170.6,65.9,3622.0,4,https://rcdb.com/16138.htm,,131.0,1.0,Thrill
+other,linnanmäki,ukko,151.6,65.3,492.2,2,https://rcdb.com/9206.htm,,77.0,2.0,Thrill
+other,linnanmäki,salama,55.8,37.3,1377.9,0,https://rcdb.com/3916.htm,,28.0,4.0,Family
+other,linnanmäki,kirnu,82.0,37.3,465.9,0,https://rcdb.com/3613.htm,,27.0,5.0,Family
+other,linnanmäki,vuoristorata,75.2,37.3,3149.6,0,https://rcdb.com/1073.htm,,43.0,3.0,Family
+other,ferrari world abu dhabi,mission ferrari,,44.7,1777.7,2,https://rcdb.com/12575.htm,,,,Thrill
+other,ferrari world abu dhabi,formula rossa,170.6,149.1,6804.5,0,https://rcdb.com/4485.htm,,109.0,1.0,Thrill
+other,ferrari world abu dhabi,formula rossa junior,38.7,24.9,656.2,0,https://rcdb.com/17741.htm,,17.0,4.0,Kids
+other,ferrari world abu dhabi,flying aces,206.7,74.6,4921.3,1,https://rcdb.com/12772.htm,,104.0,2.0,Thrill
+other,ferrari world abu dhabi,turbo track,210.0,63.4,590.6,0,https://rcdb.com/12771.htm,,59.0,3.0,Thrill
+other,ferrari world abu dhabi,fiorano gt challenge,,59.0,3280.8,0,https://rcdb.com/4245.htm,,,,Thrill
+other,gröna lund,twister,51.0,38.0,1544.0,0,https://rcdb.com/9352.htm,20.0,28.0,4.0,Family
+other,gröna lund,monster,111.5,55.9,2296.6,3,https://rcdb.com/15212.htm,16.0,94.0,1.0,Thrill
+other,gröna lund,insane,108.3,34.2,810.4,0,https://rcdb.com/4309.htm,17.0,34.0,2.0,Family
+other,gröna lund,kvasten,65.6,34.2,1295.9,0,https://rcdb.com/3702.htm,22.0,29.0,3.0,Family
+other,gröna lund,nyckelpigan,10.8,16.2,197.5,0,https://rcdb.com/1063.htm,19.0,7.0,5.0,Kids
+other,gröna lund,tuff-tuff tåget,8.0,4.5,262.5,0,https://rcdb.com/9048.htm,13.0,4.0,6.0,Kids
+other,hansa park,nessie,85.3,49.1,2431.1,1,https://rcdb.com/981.htm,,58.0,3.0,Thrill
+other,hansa park,kleine zar,10.8,12.3,176.5,0,https://rcdb.com/13621.htm,,6.0,7.0,Kids
+other,hansa park,flucht von novgorod,131.2,62.1,2296.6,1,https://rcdb.com/4075.htm,,69.0,2.0,Thrill
+other,hansa park,royal scotsman,52.5,31.1,1712.6,0,https://rcdb.com/983.htm,,28.0,4.0,Family
+other,hansa park,schlange von midgard,32.8,28.0,656.2,0,https://rcdb.com/9465.htm,,17.0,6.0,Kids
+other,hansa park,crazy mine,49.3,28.0,1213.9,0,https://rcdb.com/982.htm,,24.0,5.0,Kids
+other,hansa park,schwur des kärnan,239.5,78.9,4051.8,1,https://rcdb.com/11615.htm,,106.0,1.0,Thrill
