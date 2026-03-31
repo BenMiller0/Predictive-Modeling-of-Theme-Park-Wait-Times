@@ -59,8 +59,8 @@ jupyter notebook PredicitingCoasterWaitTimes.ipynb
 ```
 
 ## Team
-**Benjamin Miller** - Lead Developer, Data Architecture, ML Engineering  
-**Johnathan Duong** - Web Scraping, Data Processing, Analysis  
-**Khang Nguyen** - Feature Engineering, Statistical Modeling  
-**Naomika Nadkarni** - Data Validation, Quality Assurance  
-**Varun Prajapati** - Research, Methodology, Analysis
+**Benjamin Miller**
+**Johnathan Duong**
+**Khang Nguyen**
+**Naomika Nadkarni**
+**Varun Prajapati**
