@@ -1,9 +1,9 @@
 # Predictive Modeling of Theme Park Wait Times
 
 ## Project Highlights
-**730+ Roller Coasters | 80+ Theme Parks | ML Pipeline**
+** ML Pipeline | 30+ Roller Coasters | 80+ Theme Parks **
 
-**Key Finding:** Ride characteristics (speed, height, inversions) cannot predict wait times - IP and theming are the real demand drivers.
+**Key Finding:** Ride characteristics (speed, height, inversions) cannot meaningfully predict wait times - IP and theming likely the real demand drivers.
 
 ## Overview
 Data engineering project analyzing roller coasters across theme parks to determine relationships between ride characteristics and guest demand. Built complete pipeline from web scraping to predictive modeling, proving physical telemetry alone cannot predict wait times.
@@ -19,12 +19,6 @@ Data engineering project analyzing roller coasters across theme parks to determi
 - **Data Validation:** Handled mixed units, missing values, and inconsistencies
 - **ML Models:** Built predictive models quantifying physical telemetry impact
 - **Feature Engineering:** Created thrill scores and relative park rankings
-- **Key Insight:** Disproved hypothesis - physical characteristics explain minimal variance in wait times
-
-## Results
-- **Finding:** Other factors such as IP and theming are liekly primary demand drivers, not ride intensity
-- **Data:** 730+ records across major theme park chains
-- **Completeness:** 95% data quality through automated cleaning
 
 ## Project Structure
 ```
@@ -38,17 +32,10 @@ Data engineering project analyzing roller coasters across theme parks to determi
 │   ├── add_missing.py       # Data cleaning utilities for rcdb thrill stats
 │   ├── load_wait_times.py   # Wait times data processing
 │   └── rcdb_scraper.py      # RCDB web scraping
-├── results/                 # Analysis outputs and visualizations
 ├── PredicitingCoasterWaitTimes.ipynb  # Main analysis notebook
 ├── requirements.txt
 └── README.md
 ```
-
-## Technical Implementation
-- **Data Collection:** Automated extraction from RCDB.com and Thrill-Data.com
-- **Feature Engineering:** Thrill score formula and within-park rankings
-- **ML Approach:** Linear regression and Random Forest with cross-validation
-- **Thrill Score:** `(#inversions × 15) + (Height/5) + (Speed/5) + (Length/150)`
 
 ## Setup & Installation
 ```bash
